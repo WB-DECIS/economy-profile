@@ -1,0 +1,15 @@
+name: economy_profile8
+title: Economy profile
+username: slee58
+account: slee58
+server: internal-server
+hostUrl: https://w0lxdrconn01.worldbank.org:443/__api__
+appId: 685
+bundleId: 1882
+url: https://w0lxdrconn01.worldbank.org/content/436f21ea-d8a2-44cd-9977-b5b53c36dcfe/
+version: 1
+quarto_version: 1.7.24
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: index_no_label.qmd|index_no_label_files

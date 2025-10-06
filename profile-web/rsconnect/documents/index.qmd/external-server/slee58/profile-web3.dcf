@@ -1,0 +1,14 @@
+name: profile-web3
+title: profile-web
+username: slee58
+account: slee58
+server: external-server
+hostUrl: https://w0lxdshyprd1c01.worldbank.org:443/__api__
+appId: 328
+bundleId: 760
+url: https://w0lxdshyprd1c01.worldbank.org/content/01911fba-4a41-401e-9bf6-371d3f727aa4/
+version: 1
+quarto_version: 1.7.24
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE

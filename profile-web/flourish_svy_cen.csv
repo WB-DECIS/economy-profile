@@ -1,0 +1,1737 @@
+"iso3c","short_name","type","value","label","axis","year_lab"
+"AFG","Afghanistan","cen_popu",,"Population & Housing census","value",
+"AFG","Afghanistan","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"AFG","Afghanistan","cen_agri",2003,"Agriculture census","value","2003"
+"AFG","Afghanistan","svy_agri",2022,"Agriculture survey","value","2022"
+"AFG","Afghanistan","cen_bizz",,"Business/establishment census","value",
+"AFG","Afghanistan","svy_bizz",2015,"Business/establishment survey","value","2015"
+"AFG","Afghanistan","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"AFG","Afghanistan","svy_labr",2021,"Labor Force Survey","value","2021"
+"ALB","Albania","cen_popu",2023,"Population & Housing census","value","2023"
+"ALB","Albania","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"ALB","Albania","cen_agri",2020,"Agriculture census","value","2020"
+"ALB","Albania","svy_agri",1995,"Agriculture survey","value","1995"
+"ALB","Albania","cen_bizz",,"Business/establishment census","value",
+"ALB","Albania","svy_bizz",2019,"Business/establishment survey","value","2019"
+"ALB","Albania","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"ALB","Albania","svy_labr",2022,"Labor Force Survey","value","2022"
+"DZA","Algeria","cen_popu",2022,"Population & Housing census","value","2022"
+"DZA","Algeria","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"DZA","Algeria","cen_agri",2001,"Agriculture census","value","2001"
+"DZA","Algeria","svy_agri",2021,"Agriculture survey","value","2021"
+"DZA","Algeria","cen_bizz",2011,"Business/establishment census","value","2011"
+"DZA","Algeria","svy_bizz",,"Business/establishment survey","value",
+"DZA","Algeria","svy_hous",2011,"Household Survey on income/consumption/etc.","value","2011"
+"DZA","Algeria","svy_labr",,"Labor Force Survey","value",
+"ASM","American Samoa","cen_popu",,"Population & Housing census","value",
+"ASM","American Samoa","svy_hlth",,"Health/Demographic survey","value",
+"ASM","American Samoa","cen_agri",,"Agriculture census","value",
+"ASM","American Samoa","svy_agri",,"Agriculture survey","value",
+"ASM","American Samoa","cen_bizz",,"Business/establishment census","value",
+"ASM","American Samoa","svy_bizz",,"Business/establishment survey","value",
+"ASM","American Samoa","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"ASM","American Samoa","svy_labr",,"Labor Force Survey","value",
+"AND","Andorra","cen_popu",2021,"Population & Housing census","value","2021"
+"AND","Andorra","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"AND","Andorra","cen_agri",,"Agriculture census","value",
+"AND","Andorra","svy_agri",,"Agriculture survey","value",
+"AND","Andorra","cen_bizz",,"Business/establishment census","value",
+"AND","Andorra","svy_bizz",,"Business/establishment survey","value",
+"AND","Andorra","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"AND","Andorra","svy_labr",2022,"Labor Force Survey","value","2022"
+"AGO","Angola","cen_popu",2014,"Population & Housing census","value","2014"
+"AGO","Angola","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"AGO","Angola","cen_agri",2019,"Agriculture census","value","2019"
+"AGO","Angola","svy_agri",,"Agriculture survey","value",
+"AGO","Angola","cen_bizz",2021,"Business/establishment census","value","2021"
+"AGO","Angola","svy_bizz",2018,"Business/establishment survey","value","2018"
+"AGO","Angola","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"AGO","Angola","svy_labr",2021,"Labor Force Survey","value","2021"
+"ATG","Antigua and Barbuda","cen_popu",2011,"Population & Housing census","value","2011"
+"ATG","Antigua and Barbuda","svy_hlth",2009,"Health/Demographic survey","value","2009"
+"ATG","Antigua and Barbuda","cen_agri",2007,"Agriculture census","value","2007"
+"ATG","Antigua and Barbuda","svy_agri",,"Agriculture survey","value",
+"ATG","Antigua and Barbuda","cen_bizz",,"Business/establishment census","value",
+"ATG","Antigua and Barbuda","svy_bizz",,"Business/establishment survey","value",
+"ATG","Antigua and Barbuda","svy_hous",2005,"Household Survey on income/consumption/etc.","value","2005"
+"ATG","Antigua and Barbuda","svy_labr",,"Labor Force Survey","value",
+"ARG","Argentina","cen_popu",2022,"Population & Housing census","value","2022"
+"ARG","Argentina","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ARG","Argentina","cen_agri",2018,"Agriculture census","value","2018"
+"ARG","Argentina","svy_agri",2018,"Agriculture survey","value","2018"
+"ARG","Argentina","cen_bizz",2020,"Business/establishment census","value","2020"
+"ARG","Argentina","svy_bizz",2010,"Business/establishment survey","value","2010"
+"ARG","Argentina","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"ARG","Argentina","svy_labr",2023,"Labor Force Survey","value","2023"
+"ARM","Armenia","cen_popu",2011,"Population & Housing census","value","2011"
+"ARM","Armenia","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"ARM","Armenia","cen_agri",2014,"Agriculture census","value","2014"
+"ARM","Armenia","svy_agri",2008,"Agriculture survey","value","2008"
+"ARM","Armenia","cen_bizz",,"Business/establishment census","value",
+"ARM","Armenia","svy_bizz",,"Business/establishment survey","value",
+"ARM","Armenia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"ARM","Armenia","svy_labr",2022,"Labor Force Survey","value","2022"
+"ABW","Aruba","cen_popu",,"Population & Housing census","value",
+"ABW","Aruba","svy_hlth",,"Health/Demographic survey","value",
+"ABW","Aruba","cen_agri",,"Agriculture census","value",
+"ABW","Aruba","svy_agri",,"Agriculture survey","value",
+"ABW","Aruba","cen_bizz",,"Business/establishment census","value",
+"ABW","Aruba","svy_bizz",,"Business/establishment survey","value",
+"ABW","Aruba","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"ABW","Aruba","svy_labr",2014,"Labor Force Survey","value","2014"
+"AUS","Australia","cen_popu",2016,"Population & Housing census","value","2016"
+"AUS","Australia","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"AUS","Australia","cen_agri",2015,"Agriculture census","value","2015"
+"AUS","Australia","svy_agri",2022,"Agriculture survey","value","2022"
+"AUS","Australia","cen_bizz",,"Business/establishment census","value",
+"AUS","Australia","svy_bizz",2021,"Business/establishment survey","value","2021"
+"AUS","Australia","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"AUS","Australia","svy_labr",2023,"Labor Force Survey","value","2023"
+"AUT","Austria","cen_popu",2021,"Population & Housing census","value","2021"
+"AUT","Austria","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"AUT","Austria","cen_agri",2020,"Agriculture census","value","2020"
+"AUT","Austria","svy_agri",2020,"Agriculture survey","value","2020"
+"AUT","Austria","cen_bizz",,"Business/establishment census","value",
+"AUT","Austria","svy_bizz",2021,"Business/establishment survey","value","2021"
+"AUT","Austria","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"AUT","Austria","svy_labr",2023,"Labor Force Survey","value","2023"
+"AZE","Azerbaijan","cen_popu",2019,"Population & Housing census","value","2019"
+"AZE","Azerbaijan","svy_hlth",2006,"Health/Demographic survey","value","2006"
+"AZE","Azerbaijan","cen_agri",2015,"Agriculture census","value","2015"
+"AZE","Azerbaijan","svy_agri",,"Agriculture survey","value",
+"AZE","Azerbaijan","cen_bizz",,"Business/establishment census","value",
+"AZE","Azerbaijan","svy_bizz",,"Business/establishment survey","value",
+"AZE","Azerbaijan","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"AZE","Azerbaijan","svy_labr",2022,"Labor Force Survey","value","2022"
+"BHR","Bahrain","cen_popu",2020,"Population & Housing census","value","2020"
+"BHR","Bahrain","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"BHR","Bahrain","cen_agri",,"Agriculture census","value",
+"BHR","Bahrain","svy_agri",,"Agriculture survey","value",
+"BHR","Bahrain","cen_bizz",,"Business/establishment census","value",
+"BHR","Bahrain","svy_bizz",2006,"Business/establishment survey","value","2006"
+"BHR","Bahrain","svy_hous",2014,"Household Survey on income/consumption/etc.","value","2014"
+"BHR","Bahrain","svy_labr",2013,"Labor Force Survey","value","2013"
+"BGD","Bangladesh","cen_popu",2022,"Population & Housing census","value","2022"
+"BGD","Bangladesh","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"BGD","Bangladesh","cen_agri",2019,"Agriculture census","value","2019"
+"BGD","Bangladesh","svy_agri",2022,"Agriculture survey","value","2022"
+"BGD","Bangladesh","cen_bizz",,"Business/establishment census","value",
+"BGD","Bangladesh","svy_bizz",2010,"Business/establishment survey","value","2010"
+"BGD","Bangladesh","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"BGD","Bangladesh","svy_labr",2022,"Labor Force Survey","value","2022"
+"BRB","Barbados","cen_popu",2021,"Population & Housing census","value","2021"
+"BRB","Barbados","svy_hlth",2012,"Health/Demographic survey","value","2012"
+"BRB","Barbados","cen_agri",,"Agriculture census","value",
+"BRB","Barbados","svy_agri",,"Agriculture survey","value",
+"BRB","Barbados","cen_bizz",,"Business/establishment census","value",
+"BRB","Barbados","svy_bizz",2010,"Business/establishment survey","value","2010"
+"BRB","Barbados","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"BRB","Barbados","svy_labr",2019,"Labor Force Survey","value","2019"
+"BLR","Belarus","cen_popu",2019,"Population & Housing census","value","2019"
+"BLR","Belarus","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"BLR","Belarus","cen_agri",2019,"Agriculture census","value","2019"
+"BLR","Belarus","svy_agri",,"Agriculture survey","value",
+"BLR","Belarus","cen_bizz",,"Business/establishment census","value",
+"BLR","Belarus","svy_bizz",,"Business/establishment survey","value",
+"BLR","Belarus","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"BLR","Belarus","svy_labr",2022,"Labor Force Survey","value","2022"
+"BEL","Belgium","cen_popu",2021,"Population & Housing census","value","2021"
+"BEL","Belgium","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"BEL","Belgium","cen_agri",2020,"Agriculture census","value","2020"
+"BEL","Belgium","svy_agri",2020,"Agriculture survey","value","2020"
+"BEL","Belgium","cen_bizz",,"Business/establishment census","value",
+"BEL","Belgium","svy_bizz",2021,"Business/establishment survey","value","2021"
+"BEL","Belgium","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"BEL","Belgium","svy_labr",2022,"Labor Force Survey","value","2022"
+"BLZ","Belize","cen_popu",2022,"Population & Housing census","value","2022"
+"BLZ","Belize","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"BLZ","Belize","cen_agri",2018,"Agriculture census","value","2018"
+"BLZ","Belize","svy_agri",,"Agriculture survey","value",
+"BLZ","Belize","cen_bizz",,"Business/establishment census","value",
+"BLZ","Belize","svy_bizz",2016,"Business/establishment survey","value","2016"
+"BLZ","Belize","svy_hous",2011,"Household Survey on income/consumption/etc.","value","2011"
+"BLZ","Belize","svy_labr",2023,"Labor Force Survey","value","2023"
+"BEN","Benin","cen_popu",2023,"Population & Housing census","value","2023"
+"BEN","Benin","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"BEN","Benin","cen_agri",2019,"Agriculture census","value","2019"
+"BEN","Benin","svy_agri",,"Agriculture survey","value",
+"BEN","Benin","cen_bizz",2008,"Business/establishment census","value","2008"
+"BEN","Benin","svy_bizz",,"Business/establishment survey","value",
+"BEN","Benin","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"BEN","Benin","svy_labr",2018,"Labor Force Survey","value","2018"
+"BMU","Bermuda","cen_popu",,"Population & Housing census","value",
+"BMU","Bermuda","svy_hlth",,"Health/Demographic survey","value",
+"BMU","Bermuda","cen_agri",,"Agriculture census","value",
+"BMU","Bermuda","svy_agri",,"Agriculture survey","value",
+"BMU","Bermuda","cen_bizz",,"Business/establishment census","value",
+"BMU","Bermuda","svy_bizz",,"Business/establishment survey","value",
+"BMU","Bermuda","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"BMU","Bermuda","svy_labr",2014,"Labor Force Survey","value","2014"
+"BTN","Bhutan","cen_popu",2017,"Population & Housing census","value","2017"
+"BTN","Bhutan","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"BTN","Bhutan","cen_agri",2019,"Agriculture census","value","2019"
+"BTN","Bhutan","svy_agri",,"Agriculture survey","value",
+"BTN","Bhutan","cen_bizz",2017,"Business/establishment census","value","2017"
+"BTN","Bhutan","svy_bizz",,"Business/establishment survey","value",
+"BTN","Bhutan","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"BTN","Bhutan","svy_labr",2023,"Labor Force Survey","value","2023"
+"BOL","Bolivia","cen_popu",2012,"Population & Housing census","value","2012"
+"BOL","Bolivia","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"BOL","Bolivia","cen_agri",2013,"Agriculture census","value","2013"
+"BOL","Bolivia","svy_agri",2015,"Agriculture survey","value","2015"
+"BOL","Bolivia","cen_bizz",,"Business/establishment census","value",
+"BOL","Bolivia","svy_bizz",2018,"Business/establishment survey","value","2018"
+"BOL","Bolivia","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"BOL","Bolivia","svy_labr",2023,"Labor Force Survey","value","2023"
+"BIH","Bosnia and Herzegovina","cen_popu",2013,"Population & Housing census","value","2013"
+"BIH","Bosnia and Herzegovina","svy_hlth",2011,"Health/Demographic survey","value","2011"
+"BIH","Bosnia and Herzegovina","cen_agri",,"Agriculture census","value",
+"BIH","Bosnia and Herzegovina","svy_agri",,"Agriculture survey","value",
+"BIH","Bosnia and Herzegovina","cen_bizz",,"Business/establishment census","value",
+"BIH","Bosnia and Herzegovina","svy_bizz",2019,"Business/establishment survey","value","2019"
+"BIH","Bosnia and Herzegovina","svy_hous",2015,"Household Survey on income/consumption/etc.","value","2015"
+"BIH","Bosnia and Herzegovina","svy_labr",2023,"Labor Force Survey","value","2023"
+"BWA","Botswana","cen_popu",2022,"Population & Housing census","value","2022"
+"BWA","Botswana","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"BWA","Botswana","cen_agri",2015,"Agriculture census","value","2015"
+"BWA","Botswana","svy_agri",2019,"Agriculture survey","value","2019"
+"BWA","Botswana","cen_bizz",,"Business/establishment census","value",
+"BWA","Botswana","svy_bizz",2010,"Business/establishment survey","value","2010"
+"BWA","Botswana","svy_hous",2015,"Household Survey on income/consumption/etc.","value","2015"
+"BWA","Botswana","svy_labr",2006,"Labor Force Survey","value","2006"
+"BRA","Brazil","cen_popu",2022,"Population & Housing census","value","2022"
+"BRA","Brazil","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"BRA","Brazil","cen_agri",2017,"Agriculture census","value","2017"
+"BRA","Brazil","svy_agri",2019,"Agriculture survey","value","2019"
+"BRA","Brazil","cen_bizz",,"Business/establishment census","value",
+"BRA","Brazil","svy_bizz",2018,"Business/establishment survey","value","2018"
+"BRA","Brazil","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"BRA","Brazil","svy_labr",2017,"Labor Force Survey","value","2017"
+"VGB","British Virgin Islands","cen_popu",,"Population & Housing census","value",
+"VGB","British Virgin Islands","svy_hlth",2009,"Health/Demographic survey","value","2009"
+"VGB","British Virgin Islands","cen_agri",,"Agriculture census","value",
+"VGB","British Virgin Islands","svy_agri",,"Agriculture survey","value",
+"VGB","British Virgin Islands","cen_bizz",,"Business/establishment census","value",
+"VGB","British Virgin Islands","svy_bizz",,"Business/establishment survey","value",
+"VGB","British Virgin Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"VGB","British Virgin Islands","svy_labr",,"Labor Force Survey","value",
+"BRN","Brunei","cen_popu",2021,"Population & Housing census","value","2021"
+"BRN","Brunei","svy_hlth",,"Health/Demographic survey","value",
+"BRN","Brunei","cen_agri",,"Agriculture census","value",
+"BRN","Brunei","svy_agri",,"Agriculture survey","value",
+"BRN","Brunei","cen_bizz",,"Business/establishment census","value",
+"BRN","Brunei","svy_bizz",2021,"Business/establishment survey","value","2021"
+"BRN","Brunei","svy_hous",2015,"Household Survey on income/consumption/etc.","value","2015"
+"BRN","Brunei","svy_labr",2022,"Labor Force Survey","value","2022"
+"BGR","Bulgaria","cen_popu",2021,"Population & Housing census","value","2021"
+"BGR","Bulgaria","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"BGR","Bulgaria","cen_agri",2020,"Agriculture census","value","2020"
+"BGR","Bulgaria","svy_agri",2023,"Agriculture survey","value","2023"
+"BGR","Bulgaria","cen_bizz",,"Business/establishment census","value",
+"BGR","Bulgaria","svy_bizz",2019,"Business/establishment survey","value","2019"
+"BGR","Bulgaria","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"BGR","Bulgaria","svy_labr",2019,"Labor Force Survey","value","2019"
+"BFA","Burkina Faso","cen_popu",2019,"Population & Housing census","value","2019"
+"BFA","Burkina Faso","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"BFA","Burkina Faso","cen_agri",2010,"Agriculture census","value","2010"
+"BFA","Burkina Faso","svy_agri",2022,"Agriculture survey","value","2022"
+"BFA","Burkina Faso","cen_bizz",,"Business/establishment census","value",
+"BFA","Burkina Faso","svy_bizz",2009,"Business/establishment survey","value","2009"
+"BFA","Burkina Faso","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"BFA","Burkina Faso","svy_labr",2023,"Labor Force Survey","value","2023"
+"BDI","Burundi","cen_popu",2008,"Population & Housing census","value","2008"
+"BDI","Burundi","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"BDI","Burundi","cen_agri",,"Agriculture census","value",
+"BDI","Burundi","svy_agri",2011,"Agriculture survey","value","2011"
+"BDI","Burundi","cen_bizz",,"Business/establishment census","value",
+"BDI","Burundi","svy_bizz",2005,"Business/establishment survey","value","2005"
+"BDI","Burundi","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"BDI","Burundi","svy_labr",2005,"Labor Force Survey","value","2005"
+"CPV","Cabo Verde","cen_popu",2021,"Population & Housing census","value","2021"
+"CPV","Cabo Verde","svy_hlth",2005,"Health/Demographic survey","value","2005"
+"CPV","Cabo Verde","cen_agri",2015,"Agriculture census","value","2015"
+"CPV","Cabo Verde","svy_agri",,"Agriculture survey","value",
+"CPV","Cabo Verde","cen_bizz",2018,"Business/establishment census","value","2018"
+"CPV","Cabo Verde","svy_bizz",2018,"Business/establishment survey","value","2018"
+"CPV","Cabo Verde","svy_hous",2015,"Household Survey on income/consumption/etc.","value","2015"
+"CPV","Cabo Verde","svy_labr",2019,"Labor Force Survey","value","2019"
+"KHM","Cambodia","cen_popu",2019,"Population & Housing census","value","2019"
+"KHM","Cambodia","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"KHM","Cambodia","cen_agri",2013,"Agriculture census","value","2013"
+"KHM","Cambodia","svy_agri",2019,"Agriculture survey","value","2019"
+"KHM","Cambodia","cen_bizz",,"Business/establishment census","value",
+"KHM","Cambodia","svy_bizz",2005,"Business/establishment survey","value","2005"
+"KHM","Cambodia","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"KHM","Cambodia","svy_labr",2019,"Labor Force Survey","value","2019"
+"CMR","Cameroon","cen_popu",2005,"Population & Housing census","value","2005"
+"CMR","Cameroon","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"CMR","Cameroon","cen_agri",,"Agriculture census","value",
+"CMR","Cameroon","svy_agri",2022,"Agriculture survey","value","2022"
+"CMR","Cameroon","cen_bizz",2016,"Business/establishment census","value","2016"
+"CMR","Cameroon","svy_bizz",2019,"Business/establishment survey","value","2019"
+"CMR","Cameroon","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"CMR","Cameroon","svy_labr",2010,"Labor Force Survey","value","2010"
+"CAN","Canada","cen_popu",2016,"Population & Housing census","value","2016"
+"CAN","Canada","svy_hlth",2023,"Health/Demographic survey","value","2023"
+"CAN","Canada","cen_agri",2021,"Agriculture census","value","2021"
+"CAN","Canada","svy_agri",2023,"Agriculture survey","value","2023"
+"CAN","Canada","cen_bizz",,"Business/establishment census","value",
+"CAN","Canada","svy_bizz",2023,"Business/establishment survey","value","2023"
+"CAN","Canada","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"CAN","Canada","svy_labr",2023,"Labor Force Survey","value","2023"
+"CYM","Cayman Islands","cen_popu",,"Population & Housing census","value",
+"CYM","Cayman Islands","svy_hlth",2006,"Health/Demographic survey","value","2006"
+"CYM","Cayman Islands","cen_agri",,"Agriculture census","value",
+"CYM","Cayman Islands","svy_agri",,"Agriculture survey","value",
+"CYM","Cayman Islands","cen_bizz",,"Business/establishment census","value",
+"CYM","Cayman Islands","svy_bizz",,"Business/establishment survey","value",
+"CYM","Cayman Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"CYM","Cayman Islands","svy_labr",2015,"Labor Force Survey","value","2015"
+"CAF","Central African Republic","cen_popu",2003,"Population & Housing census","value","2003"
+"CAF","Central African Republic","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"CAF","Central African Republic","cen_agri",,"Agriculture census","value",
+"CAF","Central African Republic","svy_agri",2022,"Agriculture survey","value","2022"
+"CAF","Central African Republic","cen_bizz",,"Business/establishment census","value",
+"CAF","Central African Republic","svy_bizz",,"Business/establishment survey","value",
+"CAF","Central African Republic","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"CAF","Central African Republic","svy_labr",,"Labor Force Survey","value",
+"TCD","Chad","cen_popu",2009,"Population & Housing census","value","2009"
+"TCD","Chad","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"TCD","Chad","cen_agri",,"Agriculture census","value",
+"TCD","Chad","svy_agri",2021,"Agriculture survey","value","2021"
+"TCD","Chad","cen_bizz",,"Business/establishment census","value",
+"TCD","Chad","svy_bizz",,"Business/establishment survey","value",
+"TCD","Chad","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"TCD","Chad","svy_labr",,"Labor Force Survey","value",
+"CHI","Channel Islands","cen_popu",,"Population & Housing census","value",
+"CHI","Channel Islands","svy_hlth",,"Health/Demographic survey","value",
+"CHI","Channel Islands","cen_agri",,"Agriculture census","value",
+"CHI","Channel Islands","svy_agri",,"Agriculture survey","value",
+"CHI","Channel Islands","cen_bizz",,"Business/establishment census","value",
+"CHI","Channel Islands","svy_bizz",,"Business/establishment survey","value",
+"CHI","Channel Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"CHI","Channel Islands","svy_labr",,"Labor Force Survey","value",
+"CHL","Chile","cen_popu",2017,"Population & Housing census","value","2017"
+"CHL","Chile","svy_hlth",2004,"Health/Demographic survey","value","2004"
+"CHL","Chile","cen_agri",2021,"Agriculture census","value","2021"
+"CHL","Chile","svy_agri",,"Agriculture survey","value",
+"CHL","Chile","cen_bizz",,"Business/establishment census","value",
+"CHL","Chile","svy_bizz",2018,"Business/establishment survey","value","2018"
+"CHL","Chile","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"CHL","Chile","svy_labr",2023,"Labor Force Survey","value","2023"
+"CHN","China","cen_popu",2020,"Population & Housing census","value","2020"
+"CHN","China","svy_hlth",2007,"Health/Demographic survey","value","2007"
+"CHN","China","cen_agri",2016,"Agriculture census","value","2016"
+"CHN","China","svy_agri",2014,"Agriculture survey","value","2014"
+"CHN","China","cen_bizz",2019,"Business/establishment census","value","2019"
+"CHN","China","svy_bizz",,"Business/establishment survey","value",
+"CHN","China","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"CHN","China","svy_labr",2011,"Labor Force Survey","value","2011"
+"COL","Colombia","cen_popu",2018,"Population & Housing census","value","2018"
+"COL","Colombia","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"COL","Colombia","cen_agri",2014,"Agriculture census","value","2014"
+"COL","Colombia","svy_agri",2022,"Agriculture survey","value","2022"
+"COL","Colombia","cen_bizz",,"Business/establishment census","value",
+"COL","Colombia","svy_bizz",2019,"Business/establishment survey","value","2019"
+"COL","Colombia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"COL","Colombia","svy_labr",2023,"Labor Force Survey","value","2023"
+"COM","Comoros","cen_popu",2017,"Population & Housing census","value","2017"
+"COM","Comoros","svy_hlth",2012,"Health/Demographic survey","value","2012"
+"COM","Comoros","cen_agri",2004,"Agriculture census","value","2004"
+"COM","Comoros","svy_agri",,"Agriculture survey","value",
+"COM","Comoros","cen_bizz",,"Business/establishment census","value",
+"COM","Comoros","svy_bizz",,"Business/establishment survey","value",
+"COM","Comoros","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"COM","Comoros","svy_labr",2021,"Labor Force Survey","value","2021"
+"COG","Congo","cen_popu",2007,"Population & Housing census","value","2007"
+"COG","Congo","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"COG","Congo","cen_agri",2015,"Agriculture census","value","2015"
+"COG","Congo","svy_agri",,"Agriculture survey","value",
+"COG","Congo","cen_bizz",,"Business/establishment census","value",
+"COG","Congo","svy_bizz",,"Business/establishment survey","value",
+"COG","Congo","svy_hous",2011,"Household Survey on income/consumption/etc.","value","2011"
+"COG","Congo","svy_labr",2009,"Labor Force Survey","value","2009"
+"CRI","Costa Rica","cen_popu",2022,"Population & Housing census","value","2022"
+"CRI","Costa Rica","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"CRI","Costa Rica","cen_agri",2014,"Agriculture census","value","2014"
+"CRI","Costa Rica","svy_agri",2019,"Agriculture survey","value","2019"
+"CRI","Costa Rica","cen_bizz",,"Business/establishment census","value",
+"CRI","Costa Rica","svy_bizz",2017,"Business/establishment survey","value","2017"
+"CRI","Costa Rica","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"CRI","Costa Rica","svy_labr",2023,"Labor Force Survey","value","2023"
+"HRV","Croatia","cen_popu",2021,"Population & Housing census","value","2021"
+"HRV","Croatia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"HRV","Croatia","cen_agri",2020,"Agriculture census","value","2020"
+"HRV","Croatia","svy_agri",2020,"Agriculture survey","value","2020"
+"HRV","Croatia","cen_bizz",,"Business/establishment census","value",
+"HRV","Croatia","svy_bizz",2019,"Business/establishment survey","value","2019"
+"HRV","Croatia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"HRV","Croatia","svy_labr",2018,"Labor Force Survey","value","2018"
+"CUB","Cuba","cen_popu",2002,"Population & Housing census","value","2002"
+"CUB","Cuba","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"CUB","Cuba","cen_agri",,"Agriculture census","value",
+"CUB","Cuba","svy_agri",,"Agriculture survey","value",
+"CUB","Cuba","cen_bizz",,"Business/establishment census","value",
+"CUB","Cuba","svy_bizz",,"Business/establishment survey","value",
+"CUB","Cuba","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"CUB","Cuba","svy_labr",,"Labor Force Survey","value",
+"CUW","Curaçao","cen_popu",,"Population & Housing census","value",
+"CUW","Curaçao","svy_hlth",,"Health/Demographic survey","value",
+"CUW","Curaçao","cen_agri",,"Agriculture census","value",
+"CUW","Curaçao","svy_agri",,"Agriculture survey","value",
+"CUW","Curaçao","cen_bizz",,"Business/establishment census","value",
+"CUW","Curaçao","svy_bizz",,"Business/establishment survey","value",
+"CUW","Curaçao","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"CUW","Curaçao","svy_labr",,"Labor Force Survey","value",
+"CYP","Cyprus","cen_popu",2021,"Population & Housing census","value","2021"
+"CYP","Cyprus","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"CYP","Cyprus","cen_agri",2020,"Agriculture census","value","2020"
+"CYP","Cyprus","svy_agri",2020,"Agriculture survey","value","2020"
+"CYP","Cyprus","cen_bizz",,"Business/establishment census","value",
+"CYP","Cyprus","svy_bizz",2021,"Business/establishment survey","value","2021"
+"CYP","Cyprus","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"CYP","Cyprus","svy_labr",2023,"Labor Force Survey","value","2023"
+"CZE","Czechia","cen_popu",2021,"Population & Housing census","value","2021"
+"CZE","Czechia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"CZE","Czechia","cen_agri",2020,"Agriculture census","value","2020"
+"CZE","Czechia","svy_agri",2020,"Agriculture survey","value","2020"
+"CZE","Czechia","cen_bizz",,"Business/establishment census","value",
+"CZE","Czechia","svy_bizz",2021,"Business/establishment survey","value","2021"
+"CZE","Czechia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"CZE","Czechia","svy_labr",2022,"Labor Force Survey","value","2022"
+"CIV","Côte d'Ivoire","cen_popu",2021,"Population & Housing census","value","2021"
+"CIV","Côte d'Ivoire","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"CIV","Côte d'Ivoire","cen_agri",2015,"Agriculture census","value","2015"
+"CIV","Côte d'Ivoire","svy_agri",2016,"Agriculture survey","value","2016"
+"CIV","Côte d'Ivoire","cen_bizz",,"Business/establishment census","value",
+"CIV","Côte d'Ivoire","svy_bizz",2017,"Business/establishment survey","value","2017"
+"CIV","Côte d'Ivoire","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"CIV","Côte d'Ivoire","svy_labr",2019,"Labor Force Survey","value","2019"
+"PRK","Dem. People's Rep. Korea","cen_popu",,"Population & Housing census","value",
+"PRK","Dem. People's Rep. Korea","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"PRK","Dem. People's Rep. Korea","cen_agri",,"Agriculture census","value",
+"PRK","Dem. People's Rep. Korea","svy_agri",,"Agriculture survey","value",
+"PRK","Dem. People's Rep. Korea","cen_bizz",,"Business/establishment census","value",
+"PRK","Dem. People's Rep. Korea","svy_bizz",,"Business/establishment survey","value",
+"PRK","Dem. People's Rep. Korea","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"PRK","Dem. People's Rep. Korea","svy_labr",,"Labor Force Survey","value",
+"COD","Dem. Rep. Congo","cen_popu",,"Population & Housing census","value",
+"COD","Dem. Rep. Congo","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"COD","Dem. Rep. Congo","cen_agri",,"Agriculture census","value",
+"COD","Dem. Rep. Congo","svy_agri",2022,"Agriculture survey","value","2022"
+"COD","Dem. Rep. Congo","cen_bizz",,"Business/establishment census","value",
+"COD","Dem. Rep. Congo","svy_bizz",2014,"Business/establishment survey","value","2014"
+"COD","Dem. Rep. Congo","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"COD","Dem. Rep. Congo","svy_labr",2021,"Labor Force Survey","value","2021"
+"DNK","Denmark","cen_popu",2021,"Population & Housing census","value","2021"
+"DNK","Denmark","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"DNK","Denmark","cen_agri",2020,"Agriculture census","value","2020"
+"DNK","Denmark","svy_agri",2020,"Agriculture survey","value","2020"
+"DNK","Denmark","cen_bizz",,"Business/establishment census","value",
+"DNK","Denmark","svy_bizz",2021,"Business/establishment survey","value","2021"
+"DNK","Denmark","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"DNK","Denmark","svy_labr",2022,"Labor Force Survey","value","2022"
+"DJI","Djibouti","cen_popu",2009,"Population & Housing census","value","2009"
+"DJI","Djibouti","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"DJI","Djibouti","cen_agri",,"Agriculture census","value",
+"DJI","Djibouti","svy_agri",,"Agriculture survey","value",
+"DJI","Djibouti","cen_bizz",,"Business/establishment census","value",
+"DJI","Djibouti","svy_bizz",,"Business/establishment survey","value",
+"DJI","Djibouti","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"DJI","Djibouti","svy_labr",,"Labor Force Survey","value",
+"DMA","Dominica","cen_popu",2022,"Population & Housing census","value","2022"
+"DMA","Dominica","svy_hlth",2009,"Health/Demographic survey","value","2009"
+"DMA","Dominica","cen_agri",,"Agriculture census","value",
+"DMA","Dominica","svy_agri",,"Agriculture survey","value",
+"DMA","Dominica","cen_bizz",,"Business/establishment census","value",
+"DMA","Dominica","svy_bizz",,"Business/establishment survey","value",
+"DMA","Dominica","svy_hous",2008,"Household Survey on income/consumption/etc.","value","2008"
+"DMA","Dominica","svy_labr",,"Labor Force Survey","value",
+"DOM","Dominican Republic","cen_popu",2022,"Population & Housing census","value","2022"
+"DOM","Dominican Republic","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"DOM","Dominican Republic","cen_agri",2015,"Agriculture census","value","2015"
+"DOM","Dominican Republic","svy_agri",,"Agriculture survey","value",
+"DOM","Dominican Republic","cen_bizz",,"Business/establishment census","value",
+"DOM","Dominican Republic","svy_bizz",,"Business/establishment survey","value",
+"DOM","Dominican Republic","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"DOM","Dominican Republic","svy_labr",2023,"Labor Force Survey","value","2023"
+"ECU","Ecuador","cen_popu",2022,"Population & Housing census","value","2022"
+"ECU","Ecuador","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"ECU","Ecuador","cen_agri",2000,"Agriculture census","value","2000"
+"ECU","Ecuador","svy_agri",2018,"Agriculture survey","value","2018"
+"ECU","Ecuador","cen_bizz",,"Business/establishment census","value",
+"ECU","Ecuador","svy_bizz",2018,"Business/establishment survey","value","2018"
+"ECU","Ecuador","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"ECU","Ecuador","svy_labr",2023,"Labor Force Survey","value","2023"
+"EGY","Egypt","cen_popu",2017,"Population & Housing census","value","2017"
+"EGY","Egypt","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"EGY","Egypt","cen_agri",2010,"Agriculture census","value","2010"
+"EGY","Egypt","svy_agri",2021,"Agriculture survey","value","2021"
+"EGY","Egypt","cen_bizz",,"Business/establishment census","value",
+"EGY","Egypt","svy_bizz",,"Business/establishment survey","value",
+"EGY","Egypt","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"EGY","Egypt","svy_labr",2022,"Labor Force Survey","value","2022"
+"SLV","El Salvador","cen_popu",2007,"Population & Housing census","value","2007"
+"SLV","El Salvador","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"SLV","El Salvador","cen_agri",2008,"Agriculture census","value","2008"
+"SLV","El Salvador","svy_agri",,"Agriculture survey","value",
+"SLV","El Salvador","cen_bizz",,"Business/establishment census","value",
+"SLV","El Salvador","svy_bizz",,"Business/establishment survey","value",
+"SLV","El Salvador","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SLV","El Salvador","svy_labr",2016,"Labor Force Survey","value","2016"
+"GNQ","Equatorial Guinea","cen_popu",2015,"Population & Housing census","value","2015"
+"GNQ","Equatorial Guinea","svy_hlth",2011,"Health/Demographic survey","value","2011"
+"GNQ","Equatorial Guinea","cen_agri",2015,"Agriculture census","value","2015"
+"GNQ","Equatorial Guinea","svy_agri",,"Agriculture survey","value",
+"GNQ","Equatorial Guinea","cen_bizz",,"Business/establishment census","value",
+"GNQ","Equatorial Guinea","svy_bizz",,"Business/establishment survey","value",
+"GNQ","Equatorial Guinea","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"GNQ","Equatorial Guinea","svy_labr",,"Labor Force Survey","value",
+"ERI","Eritrea","cen_popu",,"Population & Housing census","value",
+"ERI","Eritrea","svy_hlth",2002,"Health/Demographic survey","value","2002"
+"ERI","Eritrea","cen_agri",,"Agriculture census","value",
+"ERI","Eritrea","svy_agri",,"Agriculture survey","value",
+"ERI","Eritrea","cen_bizz",,"Business/establishment census","value",
+"ERI","Eritrea","svy_bizz",,"Business/establishment survey","value",
+"ERI","Eritrea","svy_hous",1993,"Household Survey on income/consumption/etc.","value","1993"
+"ERI","Eritrea","svy_labr",,"Labor Force Survey","value",
+"EST","Estonia","cen_popu",2021,"Population & Housing census","value","2021"
+"EST","Estonia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"EST","Estonia","cen_agri",2020,"Agriculture census","value","2020"
+"EST","Estonia","svy_agri",2020,"Agriculture survey","value","2020"
+"EST","Estonia","cen_bizz",,"Business/establishment census","value",
+"EST","Estonia","svy_bizz",2021,"Business/establishment survey","value","2021"
+"EST","Estonia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"EST","Estonia","svy_labr",2023,"Labor Force Survey","value","2023"
+"SWZ","Eswatini","cen_popu",2017,"Population & Housing census","value","2017"
+"SWZ","Eswatini","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"SWZ","Eswatini","cen_agri",2013,"Agriculture census","value","2013"
+"SWZ","Eswatini","svy_agri",,"Agriculture survey","value",
+"SWZ","Eswatini","cen_bizz",2011,"Business/establishment census","value","2011"
+"SWZ","Eswatini","svy_bizz",,"Business/establishment survey","value",
+"SWZ","Eswatini","svy_hous",2016,"Household Survey on income/consumption/etc.","value","2016"
+"SWZ","Eswatini","svy_labr",2023,"Labor Force Survey","value","2023"
+"ETH","Ethiopia","cen_popu",2007,"Population & Housing census","value","2007"
+"ETH","Ethiopia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ETH","Ethiopia","cen_agri",2002,"Agriculture census","value","2002"
+"ETH","Ethiopia","svy_agri",2019,"Agriculture survey","value","2019"
+"ETH","Ethiopia","cen_bizz",,"Business/establishment census","value",
+"ETH","Ethiopia","svy_bizz",2017,"Business/establishment survey","value","2017"
+"ETH","Ethiopia","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"ETH","Ethiopia","svy_labr",2021,"Labor Force Survey","value","2021"
+"FRO","Faroe Islands","cen_popu",,"Population & Housing census","value",
+"FRO","Faroe Islands","svy_hlth",,"Health/Demographic survey","value",
+"FRO","Faroe Islands","cen_agri",,"Agriculture census","value",
+"FRO","Faroe Islands","svy_agri",,"Agriculture survey","value",
+"FRO","Faroe Islands","cen_bizz",,"Business/establishment census","value",
+"FRO","Faroe Islands","svy_bizz",,"Business/establishment survey","value",
+"FRO","Faroe Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"FRO","Faroe Islands","svy_labr",2013,"Labor Force Survey","value","2013"
+"FJI","Fiji","cen_popu",2017,"Population & Housing census","value","2017"
+"FJI","Fiji","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"FJI","Fiji","cen_agri",2020,"Agriculture census","value","2020"
+"FJI","Fiji","svy_agri",,"Agriculture survey","value",
+"FJI","Fiji","cen_bizz",,"Business/establishment census","value",
+"FJI","Fiji","svy_bizz",,"Business/establishment survey","value",
+"FJI","Fiji","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"FJI","Fiji","svy_labr",2016,"Labor Force Survey","value","2016"
+"FIN","Finland","cen_popu",2021,"Population & Housing census","value","2021"
+"FIN","Finland","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"FIN","Finland","cen_agri",2020,"Agriculture census","value","2020"
+"FIN","Finland","svy_agri",2020,"Agriculture survey","value","2020"
+"FIN","Finland","cen_bizz",,"Business/establishment census","value",
+"FIN","Finland","svy_bizz",2021,"Business/establishment survey","value","2021"
+"FIN","Finland","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"FIN","Finland","svy_labr",2022,"Labor Force Survey","value","2022"
+"FRA","France","cen_popu",2016,"Population & Housing census","value","2016"
+"FRA","France","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"FRA","France","cen_agri",2020,"Agriculture census","value","2020"
+"FRA","France","svy_agri",2020,"Agriculture survey","value","2020"
+"FRA","France","cen_bizz",,"Business/establishment census","value",
+"FRA","France","svy_bizz",2021,"Business/establishment survey","value","2021"
+"FRA","France","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"FRA","France","svy_labr",2022,"Labor Force Survey","value","2022"
+"PYF","French Polynesia","cen_popu",,"Population & Housing census","value",
+"PYF","French Polynesia","svy_hlth",,"Health/Demographic survey","value",
+"PYF","French Polynesia","cen_agri",,"Agriculture census","value",
+"PYF","French Polynesia","svy_agri",,"Agriculture survey","value",
+"PYF","French Polynesia","cen_bizz",,"Business/establishment census","value",
+"PYF","French Polynesia","svy_bizz",,"Business/establishment survey","value",
+"PYF","French Polynesia","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"PYF","French Polynesia","svy_labr",,"Labor Force Survey","value",
+"GAB","Gabon","cen_popu",2013,"Population & Housing census","value","2013"
+"GAB","Gabon","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"GAB","Gabon","cen_agri",2020,"Agriculture census","value","2020"
+"GAB","Gabon","svy_agri",,"Agriculture survey","value",
+"GAB","Gabon","cen_bizz",2021,"Business/establishment census","value","2021"
+"GAB","Gabon","svy_bizz",,"Business/establishment survey","value",
+"GAB","Gabon","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"GAB","Gabon","svy_labr",2012,"Labor Force Survey","value","2012"
+"GEO","Georgia","cen_popu",2014,"Population & Housing census","value","2014"
+"GEO","Georgia","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"GEO","Georgia","cen_agri",2014,"Agriculture census","value","2014"
+"GEO","Georgia","svy_agri",2018,"Agriculture survey","value","2018"
+"GEO","Georgia","cen_bizz",,"Business/establishment census","value",
+"GEO","Georgia","svy_bizz",2019,"Business/establishment survey","value","2019"
+"GEO","Georgia","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"GEO","Georgia","svy_labr",2023,"Labor Force Survey","value","2023"
+"DEU","Germany","cen_popu",2022,"Population & Housing census","value","2022"
+"DEU","Germany","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"DEU","Germany","cen_agri",2020,"Agriculture census","value","2020"
+"DEU","Germany","svy_agri",2020,"Agriculture survey","value","2020"
+"DEU","Germany","cen_bizz",,"Business/establishment census","value",
+"DEU","Germany","svy_bizz",2021,"Business/establishment survey","value","2021"
+"DEU","Germany","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"DEU","Germany","svy_labr",2022,"Labor Force Survey","value","2022"
+"GHA","Ghana","cen_popu",2021,"Population & Housing census","value","2021"
+"GHA","Ghana","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"GHA","Ghana","cen_agri",2018,"Agriculture census","value","2018"
+"GHA","Ghana","svy_agri",2020,"Agriculture survey","value","2020"
+"GHA","Ghana","cen_bizz",2013,"Business/establishment census","value","2013"
+"GHA","Ghana","svy_bizz",2015,"Business/establishment survey","value","2015"
+"GHA","Ghana","svy_hous",2016,"Household Survey on income/consumption/etc.","value","2016"
+"GHA","Ghana","svy_labr",2015,"Labor Force Survey","value","2015"
+"GIB","Gibraltar","cen_popu",,"Population & Housing census","value",
+"GIB","Gibraltar","svy_hlth",,"Health/Demographic survey","value",
+"GIB","Gibraltar","cen_agri",,"Agriculture census","value",
+"GIB","Gibraltar","svy_agri",,"Agriculture survey","value",
+"GIB","Gibraltar","cen_bizz",,"Business/establishment census","value",
+"GIB","Gibraltar","svy_bizz",,"Business/establishment survey","value",
+"GIB","Gibraltar","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"GIB","Gibraltar","svy_labr",,"Labor Force Survey","value",
+"GRC","Greece","cen_popu",2021,"Population & Housing census","value","2021"
+"GRC","Greece","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"GRC","Greece","cen_agri",2020,"Agriculture census","value","2020"
+"GRC","Greece","svy_agri",2020,"Agriculture survey","value","2020"
+"GRC","Greece","cen_bizz",,"Business/establishment census","value",
+"GRC","Greece","svy_bizz",2021,"Business/establishment survey","value","2021"
+"GRC","Greece","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"GRC","Greece","svy_labr",2023,"Labor Force Survey","value","2023"
+"GRL","Greenland","cen_popu",,"Population & Housing census","value",
+"GRL","Greenland","svy_hlth",,"Health/Demographic survey","value",
+"GRL","Greenland","cen_agri",,"Agriculture census","value",
+"GRL","Greenland","svy_agri",,"Agriculture survey","value",
+"GRL","Greenland","cen_bizz",,"Business/establishment census","value",
+"GRL","Greenland","svy_bizz",,"Business/establishment survey","value",
+"GRL","Greenland","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"GRL","Greenland","svy_labr",,"Labor Force Survey","value",
+"GRD","Grenada","cen_popu",2021,"Population & Housing census","value","2021"
+"GRD","Grenada","svy_hlth",2008,"Health/Demographic survey","value","2008"
+"GRD","Grenada","cen_agri",2012,"Agriculture census","value","2012"
+"GRD","Grenada","svy_agri",,"Agriculture survey","value",
+"GRD","Grenada","cen_bizz",,"Business/establishment census","value",
+"GRD","Grenada","svy_bizz",,"Business/establishment survey","value",
+"GRD","Grenada","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"GRD","Grenada","svy_labr",2020,"Labor Force Survey","value","2020"
+"GUM","Guam","cen_popu",,"Population & Housing census","value",
+"GUM","Guam","svy_hlth",,"Health/Demographic survey","value",
+"GUM","Guam","cen_agri",,"Agriculture census","value",
+"GUM","Guam","svy_agri",,"Agriculture survey","value",
+"GUM","Guam","cen_bizz",,"Business/establishment census","value",
+"GUM","Guam","svy_bizz",,"Business/establishment survey","value",
+"GUM","Guam","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"GUM","Guam","svy_labr",,"Labor Force Survey","value",
+"GTM","Guatemala","cen_popu",2018,"Population & Housing census","value","2018"
+"GTM","Guatemala","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"GTM","Guatemala","cen_agri",2003,"Agriculture census","value","2003"
+"GTM","Guatemala","svy_agri",2019,"Agriculture survey","value","2019"
+"GTM","Guatemala","cen_bizz",,"Business/establishment census","value",
+"GTM","Guatemala","svy_bizz",,"Business/establishment survey","value",
+"GTM","Guatemala","svy_hous",2014,"Household Survey on income/consumption/etc.","value","2014"
+"GTM","Guatemala","svy_labr",2022,"Labor Force Survey","value","2022"
+"GIN","Guinea","cen_popu",2014,"Population & Housing census","value","2014"
+"GIN","Guinea","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"GIN","Guinea","cen_agri",2001,"Agriculture census","value","2001"
+"GIN","Guinea","svy_agri",,"Agriculture survey","value",
+"GIN","Guinea","cen_bizz",,"Business/establishment census","value",
+"GIN","Guinea","svy_bizz",,"Business/establishment survey","value",
+"GIN","Guinea","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"GIN","Guinea","svy_labr",2019,"Labor Force Survey","value","2019"
+"GNB","Guinea-Bissau","cen_popu",2009,"Population & Housing census","value","2009"
+"GNB","Guinea-Bissau","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"GNB","Guinea-Bissau","cen_agri",,"Agriculture census","value",
+"GNB","Guinea-Bissau","svy_agri",,"Agriculture survey","value",
+"GNB","Guinea-Bissau","cen_bizz",,"Business/establishment census","value",
+"GNB","Guinea-Bissau","svy_bizz",,"Business/establishment survey","value",
+"GNB","Guinea-Bissau","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"GNB","Guinea-Bissau","svy_labr",2018,"Labor Force Survey","value","2018"
+"GUY","Guyana","cen_popu",2022,"Population & Housing census","value","2022"
+"GUY","Guyana","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"GUY","Guyana","cen_agri",,"Agriculture census","value",
+"GUY","Guyana","svy_agri",,"Agriculture survey","value",
+"GUY","Guyana","cen_bizz",,"Business/establishment census","value",
+"GUY","Guyana","svy_bizz",,"Business/establishment survey","value",
+"GUY","Guyana","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"GUY","Guyana","svy_labr",2019,"Labor Force Survey","value","2019"
+"HTI","Haiti","cen_popu",2003,"Population & Housing census","value","2003"
+"HTI","Haiti","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"HTI","Haiti","cen_agri",2009,"Agriculture census","value","2009"
+"HTI","Haiti","svy_agri",,"Agriculture survey","value",
+"HTI","Haiti","cen_bizz",,"Business/establishment census","value",
+"HTI","Haiti","svy_bizz",,"Business/establishment survey","value",
+"HTI","Haiti","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"HTI","Haiti","svy_labr",,"Labor Force Survey","value",
+"HND","Honduras","cen_popu",2013,"Population & Housing census","value","2013"
+"HND","Honduras","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"HND","Honduras","cen_agri",,"Agriculture census","value",
+"HND","Honduras","svy_agri",2014,"Agriculture survey","value","2014"
+"HND","Honduras","cen_bizz",,"Business/establishment census","value",
+"HND","Honduras","svy_bizz",,"Business/establishment survey","value",
+"HND","Honduras","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"HND","Honduras","svy_labr",2022,"Labor Force Survey","value","2022"
+"HKG","Hong Kong SAR, China","cen_popu",,"Population & Housing census","value",
+"HKG","Hong Kong SAR, China","svy_hlth",,"Health/Demographic survey","value",
+"HKG","Hong Kong SAR, China","cen_agri",,"Agriculture census","value",
+"HKG","Hong Kong SAR, China","svy_agri",,"Agriculture survey","value",
+"HKG","Hong Kong SAR, China","cen_bizz",,"Business/establishment census","value",
+"HKG","Hong Kong SAR, China","svy_bizz",,"Business/establishment survey","value",
+"HKG","Hong Kong SAR, China","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"HKG","Hong Kong SAR, China","svy_labr",2023,"Labor Force Survey","value","2023"
+"HUN","Hungary","cen_popu",2022,"Population & Housing census","value","2022"
+"HUN","Hungary","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"HUN","Hungary","cen_agri",2020,"Agriculture census","value","2020"
+"HUN","Hungary","svy_agri",2020,"Agriculture survey","value","2020"
+"HUN","Hungary","cen_bizz",,"Business/establishment census","value",
+"HUN","Hungary","svy_bizz",2021,"Business/establishment survey","value","2021"
+"HUN","Hungary","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"HUN","Hungary","svy_labr",2023,"Labor Force Survey","value","2023"
+"ISL","Iceland","cen_popu",2021,"Population & Housing census","value","2021"
+"ISL","Iceland","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ISL","Iceland","cen_agri",2020,"Agriculture census","value","2020"
+"ISL","Iceland","svy_agri",2020,"Agriculture survey","value","2020"
+"ISL","Iceland","cen_bizz",,"Business/establishment census","value",
+"ISL","Iceland","svy_bizz",2021,"Business/establishment survey","value","2021"
+"ISL","Iceland","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"ISL","Iceland","svy_labr",2022,"Labor Force Survey","value","2022"
+"IND","India","cen_popu",2011,"Population & Housing census","value","2011"
+"IND","India","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"IND","India","cen_agri",2016,"Agriculture census","value","2016"
+"IND","India","svy_agri",2014,"Agriculture survey","value","2014"
+"IND","India","cen_bizz",,"Business/establishment census","value",
+"IND","India","svy_bizz",2017,"Business/establishment survey","value","2017"
+"IND","India","svy_hous",2011,"Household Survey on income/consumption/etc.","value","2011"
+"IND","India","svy_labr",2023,"Labor Force Survey","value","2023"
+"IDN","Indonesia","cen_popu",2020,"Population & Housing census","value","2020"
+"IDN","Indonesia","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"IDN","Indonesia","cen_agri",2023,"Agriculture census","value","2023"
+"IDN","Indonesia","svy_agri",2014,"Agriculture survey","value","2014"
+"IDN","Indonesia","cen_bizz",,"Business/establishment census","value",
+"IDN","Indonesia","svy_bizz",2014,"Business/establishment survey","value","2014"
+"IDN","Indonesia","svy_hous",2023,"Household Survey on income/consumption/etc.","value","2023"
+"IDN","Indonesia","svy_labr",2023,"Labor Force Survey","value","2023"
+"IRN","Iran","cen_popu",2016,"Population & Housing census","value","2016"
+"IRN","Iran","svy_hlth",2000,"Health/Demographic survey","value","2000"
+"IRN","Iran","cen_agri",2014,"Agriculture census","value","2014"
+"IRN","Iran","svy_agri",2019,"Agriculture survey","value","2019"
+"IRN","Iran","cen_bizz",,"Business/establishment census","value",
+"IRN","Iran","svy_bizz",,"Business/establishment survey","value",
+"IRN","Iran","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"IRN","Iran","svy_labr",2022,"Labor Force Survey","value","2022"
+"IRQ","Iraq","cen_popu",1997,"Population & Housing census","value","1997"
+"IRQ","Iraq","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"IRQ","Iraq","cen_agri",,"Agriculture census","value",
+"IRQ","Iraq","svy_agri",2022,"Agriculture survey","value","2022"
+"IRQ","Iraq","cen_bizz",,"Business/establishment census","value",
+"IRQ","Iraq","svy_bizz",,"Business/establishment survey","value",
+"IRQ","Iraq","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"IRQ","Iraq","svy_labr",2021,"Labor Force Survey","value","2021"
+"IRL","Ireland","cen_popu",2022,"Population & Housing census","value","2022"
+"IRL","Ireland","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"IRL","Ireland","cen_agri",2020,"Agriculture census","value","2020"
+"IRL","Ireland","svy_agri",2022,"Agriculture survey","value","2022"
+"IRL","Ireland","cen_bizz",,"Business/establishment census","value",
+"IRL","Ireland","svy_bizz",2021,"Business/establishment survey","value","2021"
+"IRL","Ireland","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"IRL","Ireland","svy_labr",2022,"Labor Force Survey","value","2022"
+"IMN","Isle of Man","cen_popu",,"Population & Housing census","value",
+"IMN","Isle of Man","svy_hlth",,"Health/Demographic survey","value",
+"IMN","Isle of Man","cen_agri",,"Agriculture census","value",
+"IMN","Isle of Man","svy_agri",,"Agriculture survey","value",
+"IMN","Isle of Man","cen_bizz",,"Business/establishment census","value",
+"IMN","Isle of Man","svy_bizz",,"Business/establishment survey","value",
+"IMN","Isle of Man","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"IMN","Isle of Man","svy_labr",,"Labor Force Survey","value",
+"ISR","Israel","cen_popu",2022,"Population & Housing census","value","2022"
+"ISR","Israel","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"ISR","Israel","cen_agri",2017,"Agriculture census","value","2017"
+"ISR","Israel","svy_agri",2023,"Agriculture survey","value","2023"
+"ISR","Israel","cen_bizz",,"Business/establishment census","value",
+"ISR","Israel","svy_bizz",2023,"Business/establishment survey","value","2023"
+"ISR","Israel","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"ISR","Israel","svy_labr",2022,"Labor Force Survey","value","2022"
+"ITA","Italy","cen_popu",2021,"Population & Housing census","value","2021"
+"ITA","Italy","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ITA","Italy","cen_agri",2020,"Agriculture census","value","2020"
+"ITA","Italy","svy_agri",2020,"Agriculture survey","value","2020"
+"ITA","Italy","cen_bizz",,"Business/establishment census","value",
+"ITA","Italy","svy_bizz",2021,"Business/establishment survey","value","2021"
+"ITA","Italy","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"ITA","Italy","svy_labr",2022,"Labor Force Survey","value","2022"
+"JAM","Jamaica","cen_popu",2022,"Population & Housing census","value","2022"
+"JAM","Jamaica","svy_hlth",2011,"Health/Demographic survey","value","2011"
+"JAM","Jamaica","cen_agri",2007,"Agriculture census","value","2007"
+"JAM","Jamaica","svy_agri",,"Agriculture survey","value",
+"JAM","Jamaica","cen_bizz",,"Business/establishment census","value",
+"JAM","Jamaica","svy_bizz",,"Business/establishment survey","value",
+"JAM","Jamaica","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"JAM","Jamaica","svy_labr",2022,"Labor Force Survey","value","2022"
+"JPN","Japan","cen_popu",2020,"Population & Housing census","value","2020"
+"JPN","Japan","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"JPN","Japan","cen_agri",2020,"Agriculture census","value","2020"
+"JPN","Japan","svy_agri",2020,"Agriculture survey","value","2020"
+"JPN","Japan","cen_bizz",,"Business/establishment census","value",
+"JPN","Japan","svy_bizz",2023,"Business/establishment survey","value","2023"
+"JPN","Japan","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"JPN","Japan","svy_labr",2023,"Labor Force Survey","value","2023"
+"JOR","Jordan","cen_popu",2015,"Population & Housing census","value","2015"
+"JOR","Jordan","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"JOR","Jordan","cen_agri",2017,"Agriculture census","value","2017"
+"JOR","Jordan","svy_agri",2017,"Agriculture survey","value","2017"
+"JOR","Jordan","cen_bizz",2018,"Business/establishment census","value","2018"
+"JOR","Jordan","svy_bizz",2015,"Business/establishment survey","value","2015"
+"JOR","Jordan","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"JOR","Jordan","svy_labr",2022,"Labor Force Survey","value","2022"
+"KAZ","Kazakhstan","cen_popu",2021,"Population & Housing census","value","2021"
+"KAZ","Kazakhstan","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"KAZ","Kazakhstan","cen_agri",2006,"Agriculture census","value","2006"
+"KAZ","Kazakhstan","svy_agri",,"Agriculture survey","value",
+"KAZ","Kazakhstan","cen_bizz",,"Business/establishment census","value",
+"KAZ","Kazakhstan","svy_bizz",,"Business/establishment survey","value",
+"KAZ","Kazakhstan","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"KAZ","Kazakhstan","svy_labr",2013,"Labor Force Survey","value","2013"
+"KEN","Kenya","cen_popu",2019,"Population & Housing census","value","2019"
+"KEN","Kenya","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"KEN","Kenya","cen_agri",2019,"Agriculture census","value","2019"
+"KEN","Kenya","svy_agri",2021,"Agriculture survey","value","2021"
+"KEN","Kenya","cen_bizz",2017,"Business/establishment census","value","2017"
+"KEN","Kenya","svy_bizz",,"Business/establishment survey","value",
+"KEN","Kenya","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"KEN","Kenya","svy_labr",1999,"Labor Force Survey","value","1999"
+"KIR","Kiribati","cen_popu",2015,"Population & Housing census","value","2015"
+"KIR","Kiribati","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"KIR","Kiribati","cen_agri",2020,"Agriculture census","value","2020"
+"KIR","Kiribati","svy_agri",,"Agriculture survey","value",
+"KIR","Kiribati","cen_bizz",,"Business/establishment census","value",
+"KIR","Kiribati","svy_bizz",,"Business/establishment survey","value",
+"KIR","Kiribati","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"KIR","Kiribati","svy_labr",,"Labor Force Survey","value",
+"KOR","Korea","cen_popu",2020,"Population & Housing census","value","2020"
+"KOR","Korea","svy_hlth",2023,"Health/Demographic survey","value","2023"
+"KOR","Korea","cen_agri",2020,"Agriculture census","value","2020"
+"KOR","Korea","svy_agri",2023,"Agriculture survey","value","2023"
+"KOR","Korea","cen_bizz",,"Business/establishment census","value",
+"KOR","Korea","svy_bizz",2023,"Business/establishment survey","value","2023"
+"KOR","Korea","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"KOR","Korea","svy_labr",2023,"Labor Force Survey","value","2023"
+"XKX","Kosovo","cen_popu",2011,"Population & Housing census","value","2011"
+"XKX","Kosovo","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"XKX","Kosovo","cen_agri",2020,"Agriculture census","value","2020"
+"XKX","Kosovo","svy_agri",2019,"Agriculture survey","value","2019"
+"XKX","Kosovo","cen_bizz",,"Business/establishment census","value",
+"XKX","Kosovo","svy_bizz",2019,"Business/establishment survey","value","2019"
+"XKX","Kosovo","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"XKX","Kosovo","svy_labr",2022,"Labor Force Survey","value","2022"
+"KWT","Kuwait","cen_popu",2021,"Population & Housing census","value","2021"
+"KWT","Kuwait","svy_hlth",2010,"Health/Demographic survey","value","2010"
+"KWT","Kuwait","cen_agri",,"Agriculture census","value",
+"KWT","Kuwait","svy_agri",2019,"Agriculture survey","value","2019"
+"KWT","Kuwait","cen_bizz",,"Business/establishment census","value",
+"KWT","Kuwait","svy_bizz",2019,"Business/establishment survey","value","2019"
+"KWT","Kuwait","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"KWT","Kuwait","svy_labr",2016,"Labor Force Survey","value","2016"
+"KGZ","Kyrgyz Republic","cen_popu",2022,"Population & Housing census","value","2022"
+"KGZ","Kyrgyz Republic","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"KGZ","Kyrgyz Republic","cen_agri",2002,"Agriculture census","value","2002"
+"KGZ","Kyrgyz Republic","svy_agri",,"Agriculture survey","value",
+"KGZ","Kyrgyz Republic","cen_bizz",,"Business/establishment census","value",
+"KGZ","Kyrgyz Republic","svy_bizz",2003,"Business/establishment survey","value","2003"
+"KGZ","Kyrgyz Republic","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"KGZ","Kyrgyz Republic","svy_labr",2021,"Labor Force Survey","value","2021"
+"LAO","Lao PDR","cen_popu",2015,"Population & Housing census","value","2015"
+"LAO","Lao PDR","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"LAO","Lao PDR","cen_agri",2020,"Agriculture census","value","2020"
+"LAO","Lao PDR","svy_agri",,"Agriculture survey","value",
+"LAO","Lao PDR","cen_bizz",2006,"Business/establishment census","value","2006"
+"LAO","Lao PDR","svy_bizz",,"Business/establishment survey","value",
+"LAO","Lao PDR","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"LAO","Lao PDR","svy_labr",2022,"Labor Force Survey","value","2022"
+"LVA","Latvia","cen_popu",2021,"Population & Housing census","value","2021"
+"LVA","Latvia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"LVA","Latvia","cen_agri",2020,"Agriculture census","value","2020"
+"LVA","Latvia","svy_agri",2020,"Agriculture survey","value","2020"
+"LVA","Latvia","cen_bizz",,"Business/establishment census","value",
+"LVA","Latvia","svy_bizz",2021,"Business/establishment survey","value","2021"
+"LVA","Latvia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"LVA","Latvia","svy_labr",2022,"Labor Force Survey","value","2022"
+"LBN","Lebanon","cen_popu",,"Population & Housing census","value",
+"LBN","Lebanon","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"LBN","Lebanon","cen_agri",2010,"Agriculture census","value","2010"
+"LBN","Lebanon","svy_agri",,"Agriculture survey","value",
+"LBN","Lebanon","cen_bizz",,"Business/establishment census","value",
+"LBN","Lebanon","svy_bizz",,"Business/establishment survey","value",
+"LBN","Lebanon","svy_hous",2011,"Household Survey on income/consumption/etc.","value","2011"
+"LBN","Lebanon","svy_labr",2019,"Labor Force Survey","value","2019"
+"LSO","Lesotho","cen_popu",2016,"Population & Housing census","value","2016"
+"LSO","Lesotho","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"LSO","Lesotho","cen_agri",2020,"Agriculture census","value","2020"
+"LSO","Lesotho","svy_agri",2018,"Agriculture survey","value","2018"
+"LSO","Lesotho","cen_bizz",,"Business/establishment census","value",
+"LSO","Lesotho","svy_bizz",,"Business/establishment survey","value",
+"LSO","Lesotho","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"LSO","Lesotho","svy_labr",2019,"Labor Force Survey","value","2019"
+"LBR","Liberia","cen_popu",2022,"Population & Housing census","value","2022"
+"LBR","Liberia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"LBR","Liberia","cen_agri",,"Agriculture census","value",
+"LBR","Liberia","svy_agri",2021,"Agriculture survey","value","2021"
+"LBR","Liberia","cen_bizz",2017,"Business/establishment census","value","2017"
+"LBR","Liberia","svy_bizz",,"Business/establishment survey","value",
+"LBR","Liberia","svy_hous",2016,"Household Survey on income/consumption/etc.","value","2016"
+"LBR","Liberia","svy_labr",2017,"Labor Force Survey","value","2017"
+"LBY","Libya","cen_popu",2006,"Population & Housing census","value","2006"
+"LBY","Libya","svy_hlth",2009,"Health/Demographic survey","value","2009"
+"LBY","Libya","cen_agri",2001,"Agriculture census","value","2001"
+"LBY","Libya","svy_agri",,"Agriculture survey","value",
+"LBY","Libya","cen_bizz",,"Business/establishment census","value",
+"LBY","Libya","svy_bizz",,"Business/establishment survey","value",
+"LBY","Libya","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"LBY","Libya","svy_labr",2012,"Labor Force Survey","value","2012"
+"LIE","Liechtenstein","cen_popu",,"Population & Housing census","value",
+"LIE","Liechtenstein","svy_hlth",,"Health/Demographic survey","value",
+"LIE","Liechtenstein","cen_agri",,"Agriculture census","value",
+"LIE","Liechtenstein","svy_agri",,"Agriculture survey","value",
+"LIE","Liechtenstein","cen_bizz",,"Business/establishment census","value",
+"LIE","Liechtenstein","svy_bizz",,"Business/establishment survey","value",
+"LIE","Liechtenstein","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"LIE","Liechtenstein","svy_labr",,"Labor Force Survey","value",
+"LTU","Lithuania","cen_popu",2021,"Population & Housing census","value","2021"
+"LTU","Lithuania","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"LTU","Lithuania","cen_agri",2020,"Agriculture census","value","2020"
+"LTU","Lithuania","svy_agri",2020,"Agriculture survey","value","2020"
+"LTU","Lithuania","cen_bizz",,"Business/establishment census","value",
+"LTU","Lithuania","svy_bizz",2021,"Business/establishment survey","value","2021"
+"LTU","Lithuania","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"LTU","Lithuania","svy_labr",2022,"Labor Force Survey","value","2022"
+"LUX","Luxembourg","cen_popu",2021,"Population & Housing census","value","2021"
+"LUX","Luxembourg","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"LUX","Luxembourg","cen_agri",2020,"Agriculture census","value","2020"
+"LUX","Luxembourg","svy_agri",2020,"Agriculture survey","value","2020"
+"LUX","Luxembourg","cen_bizz",,"Business/establishment census","value",
+"LUX","Luxembourg","svy_bizz",2021,"Business/establishment survey","value","2021"
+"LUX","Luxembourg","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"LUX","Luxembourg","svy_labr",2022,"Labor Force Survey","value","2022"
+"MAC","Macao SAR, China","cen_popu",,"Population & Housing census","value",
+"MAC","Macao SAR, China","svy_hlth",,"Health/Demographic survey","value",
+"MAC","Macao SAR, China","cen_agri",,"Agriculture census","value",
+"MAC","Macao SAR, China","svy_agri",,"Agriculture survey","value",
+"MAC","Macao SAR, China","cen_bizz",,"Business/establishment census","value",
+"MAC","Macao SAR, China","svy_bizz",,"Business/establishment survey","value",
+"MAC","Macao SAR, China","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"MAC","Macao SAR, China","svy_labr",,"Labor Force Survey","value",
+"MDG","Madagascar","cen_popu",2018,"Population & Housing census","value","2018"
+"MDG","Madagascar","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"MDG","Madagascar","cen_agri",2004,"Agriculture census","value","2004"
+"MDG","Madagascar","svy_agri",,"Agriculture survey","value",
+"MDG","Madagascar","cen_bizz",,"Business/establishment census","value",
+"MDG","Madagascar","svy_bizz",,"Business/establishment survey","value",
+"MDG","Madagascar","svy_hous",2012,"Household Survey on income/consumption/etc.","value","2012"
+"MDG","Madagascar","svy_labr",2015,"Labor Force Survey","value","2015"
+"MWI","Malawi","cen_popu",2018,"Population & Housing census","value","2018"
+"MWI","Malawi","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"MWI","Malawi","cen_agri",2006,"Agriculture census","value","2006"
+"MWI","Malawi","svy_agri",2020,"Agriculture survey","value","2020"
+"MWI","Malawi","cen_bizz",2016,"Business/establishment census","value","2016"
+"MWI","Malawi","svy_bizz",2013,"Business/establishment survey","value","2013"
+"MWI","Malawi","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MWI","Malawi","svy_labr",2013,"Labor Force Survey","value","2013"
+"MYS","Malaysia","cen_popu",2020,"Population & Housing census","value","2020"
+"MYS","Malaysia","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"MYS","Malaysia","cen_agri",2005,"Agriculture census","value","2005"
+"MYS","Malaysia","svy_agri",2014,"Agriculture survey","value","2014"
+"MYS","Malaysia","cen_bizz",,"Business/establishment census","value",
+"MYS","Malaysia","svy_bizz",2017,"Business/establishment survey","value","2017"
+"MYS","Malaysia","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"MYS","Malaysia","svy_labr",2022,"Labor Force Survey","value","2022"
+"MDV","Maldives","cen_popu",2022,"Population & Housing census","value","2022"
+"MDV","Maldives","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"MDV","Maldives","cen_agri",,"Agriculture census","value",
+"MDV","Maldives","svy_agri",,"Agriculture survey","value",
+"MDV","Maldives","cen_bizz",,"Business/establishment census","value",
+"MDV","Maldives","svy_bizz",2013,"Business/establishment survey","value","2013"
+"MDV","Maldives","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MDV","Maldives","svy_labr",,"Labor Force Survey","value",
+"MLI","Mali","cen_popu",2022,"Population & Housing census","value","2022"
+"MLI","Mali","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"MLI","Mali","cen_agri",2005,"Agriculture census","value","2005"
+"MLI","Mali","svy_agri",2022,"Agriculture survey","value","2022"
+"MLI","Mali","cen_bizz",,"Business/establishment census","value",
+"MLI","Mali","svy_bizz",2007,"Business/establishment survey","value","2007"
+"MLI","Mali","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"MLI","Mali","svy_labr",2020,"Labor Force Survey","value","2020"
+"MLT","Malta","cen_popu",2011,"Population & Housing census","value","2011"
+"MLT","Malta","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"MLT","Malta","cen_agri",2020,"Agriculture census","value","2020"
+"MLT","Malta","svy_agri",2020,"Agriculture survey","value","2020"
+"MLT","Malta","cen_bizz",,"Business/establishment census","value",
+"MLT","Malta","svy_bizz",2021,"Business/establishment survey","value","2021"
+"MLT","Malta","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"MLT","Malta","svy_labr",2023,"Labor Force Survey","value","2023"
+"MHL","Marshall Islands","cen_popu",2021,"Population & Housing census","value","2021"
+"MHL","Marshall Islands","svy_hlth",2007,"Health/Demographic survey","value","2007"
+"MHL","Marshall Islands","cen_agri",2021,"Agriculture census","value","2021"
+"MHL","Marshall Islands","svy_agri",,"Agriculture survey","value",
+"MHL","Marshall Islands","cen_bizz",,"Business/establishment census","value",
+"MHL","Marshall Islands","svy_bizz",,"Business/establishment survey","value",
+"MHL","Marshall Islands","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MHL","Marshall Islands","svy_labr",,"Labor Force Survey","value",
+"MRT","Mauritania","cen_popu",2013,"Population & Housing census","value","2013"
+"MRT","Mauritania","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"MRT","Mauritania","cen_agri",,"Agriculture census","value",
+"MRT","Mauritania","svy_agri",2023,"Agriculture survey","value","2023"
+"MRT","Mauritania","cen_bizz",,"Business/establishment census","value",
+"MRT","Mauritania","svy_bizz",,"Business/establishment survey","value",
+"MRT","Mauritania","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MRT","Mauritania","svy_labr",2017,"Labor Force Survey","value","2017"
+"MUS","Mauritius","cen_popu",2022,"Population & Housing census","value","2022"
+"MUS","Mauritius","svy_hlth",2011,"Health/Demographic survey","value","2011"
+"MUS","Mauritius","cen_agri",2014,"Agriculture census","value","2014"
+"MUS","Mauritius","svy_agri",2005,"Agriculture survey","value","2005"
+"MUS","Mauritius","cen_bizz",,"Business/establishment census","value",
+"MUS","Mauritius","svy_bizz",,"Business/establishment survey","value",
+"MUS","Mauritius","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MUS","Mauritius","svy_labr",2022,"Labor Force Survey","value","2022"
+"MEX","Mexico","cen_popu",2020,"Population & Housing census","value","2020"
+"MEX","Mexico","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"MEX","Mexico","cen_agri",2022,"Agriculture census","value","2022"
+"MEX","Mexico","svy_agri",2019,"Agriculture survey","value","2019"
+"MEX","Mexico","cen_bizz",,"Business/establishment census","value",
+"MEX","Mexico","svy_bizz",2019,"Business/establishment survey","value","2019"
+"MEX","Mexico","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"MEX","Mexico","svy_labr",2023,"Labor Force Survey","value","2023"
+"FSM","Micronesia","cen_popu",2010,"Population & Housing census","value","2010"
+"FSM","Micronesia","svy_hlth",,"Health/Demographic survey","value",
+"FSM","Micronesia","cen_agri",2016,"Agriculture census","value","2016"
+"FSM","Micronesia","svy_agri",,"Agriculture survey","value",
+"FSM","Micronesia","cen_bizz",,"Business/establishment census","value",
+"FSM","Micronesia","svy_bizz",,"Business/establishment survey","value",
+"FSM","Micronesia","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"FSM","Micronesia","svy_labr",,"Labor Force Survey","value",
+"MDA","Moldova","cen_popu",2014,"Population & Housing census","value","2014"
+"MDA","Moldova","svy_hlth",2012,"Health/Demographic survey","value","2012"
+"MDA","Moldova","cen_agri",2011,"Agriculture census","value","2011"
+"MDA","Moldova","svy_agri",,"Agriculture survey","value",
+"MDA","Moldova","cen_bizz",,"Business/establishment census","value",
+"MDA","Moldova","svy_bizz",2020,"Business/establishment survey","value","2020"
+"MDA","Moldova","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"MDA","Moldova","svy_labr",2023,"Labor Force Survey","value","2023"
+"MCO","Monaco","cen_popu",,"Population & Housing census","value",
+"MCO","Monaco","svy_hlth",,"Health/Demographic survey","value",
+"MCO","Monaco","cen_agri",,"Agriculture census","value",
+"MCO","Monaco","svy_agri",,"Agriculture survey","value",
+"MCO","Monaco","cen_bizz",,"Business/establishment census","value",
+"MCO","Monaco","svy_bizz",,"Business/establishment survey","value",
+"MCO","Monaco","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"MCO","Monaco","svy_labr",,"Labor Force Survey","value",
+"MNG","Mongolia","cen_popu",2020,"Population & Housing census","value","2020"
+"MNG","Mongolia","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"MNG","Mongolia","cen_agri",2011,"Agriculture census","value","2011"
+"MNG","Mongolia","svy_agri",2018,"Agriculture survey","value","2018"
+"MNG","Mongolia","cen_bizz",,"Business/establishment census","value",
+"MNG","Mongolia","svy_bizz",,"Business/establishment survey","value",
+"MNG","Mongolia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"MNG","Mongolia","svy_labr",2023,"Labor Force Survey","value","2023"
+"MNE","Montenegro","cen_popu",2023,"Population & Housing census","value","2023"
+"MNE","Montenegro","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"MNE","Montenegro","cen_agri",2010,"Agriculture census","value","2010"
+"MNE","Montenegro","svy_agri",2016,"Agriculture survey","value","2016"
+"MNE","Montenegro","cen_bizz",,"Business/establishment census","value",
+"MNE","Montenegro","svy_bizz",,"Business/establishment survey","value",
+"MNE","Montenegro","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"MNE","Montenegro","svy_labr",2022,"Labor Force Survey","value","2022"
+"MAR","Morocco","cen_popu",2014,"Population & Housing census","value","2014"
+"MAR","Morocco","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"MAR","Morocco","cen_agri",2016,"Agriculture census","value","2016"
+"MAR","Morocco","svy_agri",2021,"Agriculture survey","value","2021"
+"MAR","Morocco","cen_bizz",2001,"Business/establishment census","value","2001"
+"MAR","Morocco","svy_bizz",2019,"Business/establishment survey","value","2019"
+"MAR","Morocco","svy_hous",2013,"Household Survey on income/consumption/etc.","value","2013"
+"MAR","Morocco","svy_labr",2019,"Labor Force Survey","value","2019"
+"MOZ","Mozambique","cen_popu",2017,"Population & Housing census","value","2017"
+"MOZ","Mozambique","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"MOZ","Mozambique","cen_agri",2009,"Agriculture census","value","2009"
+"MOZ","Mozambique","svy_agri",2022,"Agriculture survey","value","2022"
+"MOZ","Mozambique","cen_bizz",2015,"Business/establishment census","value","2015"
+"MOZ","Mozambique","svy_bizz",,"Business/establishment survey","value",
+"MOZ","Mozambique","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MOZ","Mozambique","svy_labr",2004,"Labor Force Survey","value","2004"
+"MMR","Myanmar","cen_popu",2014,"Population & Housing census","value","2014"
+"MMR","Myanmar","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"MMR","Myanmar","cen_agri",2010,"Agriculture census","value","2010"
+"MMR","Myanmar","svy_agri",2022,"Agriculture survey","value","2022"
+"MMR","Myanmar","cen_bizz",,"Business/establishment census","value",
+"MMR","Myanmar","svy_bizz",2017,"Business/establishment survey","value","2017"
+"MMR","Myanmar","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"MMR","Myanmar","svy_labr",2020,"Labor Force Survey","value","2020"
+"NAM","Namibia","cen_popu",2023,"Population & Housing census","value","2023"
+"NAM","Namibia","svy_hlth",2013,"Health/Demographic survey","value","2013"
+"NAM","Namibia","cen_agri",2014,"Agriculture census","value","2014"
+"NAM","Namibia","svy_agri",,"Agriculture survey","value",
+"NAM","Namibia","cen_bizz",2019,"Business/establishment census","value","2019"
+"NAM","Namibia","svy_bizz",,"Business/establishment survey","value",
+"NAM","Namibia","svy_hous",2015,"Household Survey on income/consumption/etc.","value","2015"
+"NAM","Namibia","svy_labr",2018,"Labor Force Survey","value","2018"
+"NRU","Nauru","cen_popu",2021,"Population & Housing census","value","2021"
+"NRU","Nauru","svy_hlth",,"Health/Demographic survey","value",
+"NRU","Nauru","cen_agri",2021,"Agriculture census","value","2021"
+"NRU","Nauru","svy_agri",,"Agriculture survey","value",
+"NRU","Nauru","cen_bizz",,"Business/establishment census","value",
+"NRU","Nauru","svy_bizz",,"Business/establishment survey","value",
+"NRU","Nauru","svy_hous",2012,"Household Survey on income/consumption/etc.","value","2012"
+"NRU","Nauru","svy_labr",,"Labor Force Survey","value",
+"NPL","Nepal","cen_popu",2021,"Population & Housing census","value","2021"
+"NPL","Nepal","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"NPL","Nepal","cen_agri",2021,"Agriculture census","value","2021"
+"NPL","Nepal","svy_agri",,"Agriculture survey","value",
+"NPL","Nepal","cen_bizz",2018,"Business/establishment census","value","2018"
+"NPL","Nepal","svy_bizz",2008,"Business/establishment survey","value","2008"
+"NPL","Nepal","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"NPL","Nepal","svy_labr",2017,"Labor Force Survey","value","2017"
+"NLD","Netherlands","cen_popu",2021,"Population & Housing census","value","2021"
+"NLD","Netherlands","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"NLD","Netherlands","cen_agri",2020,"Agriculture census","value","2020"
+"NLD","Netherlands","svy_agri",2020,"Agriculture survey","value","2020"
+"NLD","Netherlands","cen_bizz",,"Business/establishment census","value",
+"NLD","Netherlands","svy_bizz",2021,"Business/establishment survey","value","2021"
+"NLD","Netherlands","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"NLD","Netherlands","svy_labr",2022,"Labor Force Survey","value","2022"
+"NCL","New Caledonia","cen_popu",,"Population & Housing census","value",
+"NCL","New Caledonia","svy_hlth",,"Health/Demographic survey","value",
+"NCL","New Caledonia","cen_agri",,"Agriculture census","value",
+"NCL","New Caledonia","svy_agri",,"Agriculture survey","value",
+"NCL","New Caledonia","cen_bizz",,"Business/establishment census","value",
+"NCL","New Caledonia","svy_bizz",,"Business/establishment survey","value",
+"NCL","New Caledonia","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"NCL","New Caledonia","svy_labr",2022,"Labor Force Survey","value","2022"
+"NZL","New Zealand","cen_popu",2018,"Population & Housing census","value","2018"
+"NZL","New Zealand","svy_hlth",2023,"Health/Demographic survey","value","2023"
+"NZL","New Zealand","cen_agri",2017,"Agriculture census","value","2017"
+"NZL","New Zealand","svy_agri",2023,"Agriculture survey","value","2023"
+"NZL","New Zealand","cen_bizz",,"Business/establishment census","value",
+"NZL","New Zealand","svy_bizz",2021,"Business/establishment survey","value","2021"
+"NZL","New Zealand","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"NZL","New Zealand","svy_labr",2022,"Labor Force Survey","value","2022"
+"NIC","Nicaragua","cen_popu",2005,"Population & Housing census","value","2005"
+"NIC","Nicaragua","svy_hlth",2010,"Health/Demographic survey","value","2010"
+"NIC","Nicaragua","cen_agri",2011,"Agriculture census","value","2011"
+"NIC","Nicaragua","svy_agri",,"Agriculture survey","value",
+"NIC","Nicaragua","cen_bizz",2010,"Business/establishment census","value","2010"
+"NIC","Nicaragua","svy_bizz",,"Business/establishment survey","value",
+"NIC","Nicaragua","svy_hous",2016,"Household Survey on income/consumption/etc.","value","2016"
+"NIC","Nicaragua","svy_labr",2019,"Labor Force Survey","value","2019"
+"NER","Niger","cen_popu",2012,"Population & Housing census","value","2012"
+"NER","Niger","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"NER","Niger","cen_agri",2004,"Agriculture census","value","2004"
+"NER","Niger","svy_agri",2022,"Agriculture survey","value","2022"
+"NER","Niger","cen_bizz",2022,"Business/establishment census","value","2022"
+"NER","Niger","svy_bizz",,"Business/establishment survey","value",
+"NER","Niger","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"NER","Niger","svy_labr",2017,"Labor Force Survey","value","2017"
+"NGA","Nigeria","cen_popu",2006,"Population & Housing census","value","2006"
+"NGA","Nigeria","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"NGA","Nigeria","cen_agri",2006,"Agriculture census","value","2006"
+"NGA","Nigeria","svy_agri",2021,"Agriculture survey","value","2021"
+"NGA","Nigeria","cen_bizz",,"Business/establishment census","value",
+"NGA","Nigeria","svy_bizz",,"Business/establishment survey","value",
+"NGA","Nigeria","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"NGA","Nigeria","svy_labr",2022,"Labor Force Survey","value","2022"
+"MKD","North Macedonia","cen_popu",2021,"Population & Housing census","value","2021"
+"MKD","North Macedonia","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"MKD","North Macedonia","cen_agri",2020,"Agriculture census","value","2020"
+"MKD","North Macedonia","svy_agri",2016,"Agriculture survey","value","2016"
+"MKD","North Macedonia","cen_bizz",,"Business/establishment census","value",
+"MKD","North Macedonia","svy_bizz",2019,"Business/establishment survey","value","2019"
+"MKD","North Macedonia","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"MKD","North Macedonia","svy_labr",2023,"Labor Force Survey","value","2023"
+"MNP","Northern Mariana Islands","cen_popu",,"Population & Housing census","value",
+"MNP","Northern Mariana Islands","svy_hlth",,"Health/Demographic survey","value",
+"MNP","Northern Mariana Islands","cen_agri",,"Agriculture census","value",
+"MNP","Northern Mariana Islands","svy_agri",,"Agriculture survey","value",
+"MNP","Northern Mariana Islands","cen_bizz",,"Business/establishment census","value",
+"MNP","Northern Mariana Islands","svy_bizz",,"Business/establishment survey","value",
+"MNP","Northern Mariana Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"MNP","Northern Mariana Islands","svy_labr",,"Labor Force Survey","value",
+"NOR","Norway","cen_popu",2021,"Population & Housing census","value","2021"
+"NOR","Norway","svy_hlth",2003,"Health/Demographic survey","value","2003"
+"NOR","Norway","cen_agri",2020,"Agriculture census","value","2020"
+"NOR","Norway","svy_agri",2021,"Agriculture survey","value","2021"
+"NOR","Norway","cen_bizz",,"Business/establishment census","value",
+"NOR","Norway","svy_bizz",2021,"Business/establishment survey","value","2021"
+"NOR","Norway","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"NOR","Norway","svy_labr",2022,"Labor Force Survey","value","2022"
+"OMN","Oman","cen_popu",2020,"Population & Housing census","value","2020"
+"OMN","Oman","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"OMN","Oman","cen_agri",2013,"Agriculture census","value","2013"
+"OMN","Oman","svy_agri",,"Agriculture survey","value",
+"OMN","Oman","cen_bizz",,"Business/establishment census","value",
+"OMN","Oman","svy_bizz",2001,"Business/establishment survey","value","2001"
+"OMN","Oman","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"OMN","Oman","svy_labr",,"Labor Force Survey","value",
+"PAK","Pakistan","cen_popu",2017,"Population & Housing census","value","2017"
+"PAK","Pakistan","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"PAK","Pakistan","cen_agri",2010,"Agriculture census","value","2010"
+"PAK","Pakistan","svy_agri",2022,"Agriculture survey","value","2022"
+"PAK","Pakistan","cen_bizz",,"Business/establishment census","value",
+"PAK","Pakistan","svy_bizz",,"Business/establishment survey","value",
+"PAK","Pakistan","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"PAK","Pakistan","svy_labr",2021,"Labor Force Survey","value","2021"
+"PLW","Palau","cen_popu",2015,"Population & Housing census","value","2015"
+"PLW","Palau","svy_hlth",,"Health/Demographic survey","value",
+"PLW","Palau","cen_agri",2020,"Agriculture census","value","2020"
+"PLW","Palau","svy_agri",,"Agriculture survey","value",
+"PLW","Palau","cen_bizz",,"Business/establishment census","value",
+"PLW","Palau","svy_bizz",,"Business/establishment survey","value",
+"PLW","Palau","svy_hous",2013,"Household Survey on income/consumption/etc.","value","2013"
+"PLW","Palau","svy_labr",,"Labor Force Survey","value",
+"PAN","Panama","cen_popu",2023,"Population & Housing census","value","2023"
+"PAN","Panama","svy_hlth",2013,"Health/Demographic survey","value","2013"
+"PAN","Panama","cen_agri",2011,"Agriculture census","value","2011"
+"PAN","Panama","svy_agri",,"Agriculture survey","value",
+"PAN","Panama","cen_bizz",,"Business/establishment census","value",
+"PAN","Panama","svy_bizz",2019,"Business/establishment survey","value","2019"
+"PAN","Panama","svy_hous",2023,"Household Survey on income/consumption/etc.","value","2023"
+"PAN","Panama","svy_labr",2023,"Labor Force Survey","value","2023"
+"PNG","Papua New Guinea","cen_popu",2011,"Population & Housing census","value","2011"
+"PNG","Papua New Guinea","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"PNG","Papua New Guinea","cen_agri",,"Agriculture census","value",
+"PNG","Papua New Guinea","svy_agri",,"Agriculture survey","value",
+"PNG","Papua New Guinea","cen_bizz",,"Business/establishment census","value",
+"PNG","Papua New Guinea","svy_bizz",,"Business/establishment survey","value",
+"PNG","Papua New Guinea","svy_hous",2009,"Household Survey on income/consumption/etc.","value","2009"
+"PNG","Papua New Guinea","svy_labr",,"Labor Force Survey","value",
+"PRY","Paraguay","cen_popu",2022,"Population & Housing census","value","2022"
+"PRY","Paraguay","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"PRY","Paraguay","cen_agri",2022,"Agriculture census","value","2022"
+"PRY","Paraguay","svy_agri",2014,"Agriculture survey","value","2014"
+"PRY","Paraguay","cen_bizz",,"Business/establishment census","value",
+"PRY","Paraguay","svy_bizz",2016,"Business/establishment survey","value","2016"
+"PRY","Paraguay","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"PRY","Paraguay","svy_labr",2017,"Labor Force Survey","value","2017"
+"PER","Peru","cen_popu",2017,"Population & Housing census","value","2017"
+"PER","Peru","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"PER","Peru","cen_agri",2012,"Agriculture census","value","2012"
+"PER","Peru","svy_agri",2018,"Agriculture survey","value","2018"
+"PER","Peru","cen_bizz",,"Business/establishment census","value",
+"PER","Peru","svy_bizz",2018,"Business/establishment survey","value","2018"
+"PER","Peru","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"PER","Peru","svy_labr",2023,"Labor Force Survey","value","2023"
+"PHL","Philippines","cen_popu",2015,"Population & Housing census","value","2015"
+"PHL","Philippines","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"PHL","Philippines","cen_agri",2012,"Agriculture census","value","2012"
+"PHL","Philippines","svy_agri",2022,"Agriculture survey","value","2022"
+"PHL","Philippines","cen_bizz",2018,"Business/establishment census","value","2018"
+"PHL","Philippines","svy_bizz",2018,"Business/establishment survey","value","2018"
+"PHL","Philippines","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"PHL","Philippines","svy_labr",2022,"Labor Force Survey","value","2022"
+"POL","Poland","cen_popu",2021,"Population & Housing census","value","2021"
+"POL","Poland","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"POL","Poland","cen_agri",2020,"Agriculture census","value","2020"
+"POL","Poland","svy_agri",2020,"Agriculture survey","value","2020"
+"POL","Poland","cen_bizz",,"Business/establishment census","value",
+"POL","Poland","svy_bizz",2018,"Business/establishment survey","value","2018"
+"POL","Poland","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"POL","Poland","svy_labr",2023,"Labor Force Survey","value","2023"
+"PRT","Portugal","cen_popu",2021,"Population & Housing census","value","2021"
+"PRT","Portugal","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"PRT","Portugal","cen_agri",2020,"Agriculture census","value","2020"
+"PRT","Portugal","svy_agri",2020,"Agriculture survey","value","2020"
+"PRT","Portugal","cen_bizz",,"Business/establishment census","value",
+"PRT","Portugal","svy_bizz",2021,"Business/establishment survey","value","2021"
+"PRT","Portugal","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"PRT","Portugal","svy_labr",2023,"Labor Force Survey","value","2023"
+"PRI","Puerto Rico","cen_popu",2000,"Population & Housing census","value","2000"
+"PRI","Puerto Rico","svy_hlth",,"Health/Demographic survey","value",
+"PRI","Puerto Rico","cen_agri",,"Agriculture census","value",
+"PRI","Puerto Rico","svy_agri",,"Agriculture survey","value",
+"PRI","Puerto Rico","cen_bizz",,"Business/establishment census","value",
+"PRI","Puerto Rico","svy_bizz",,"Business/establishment survey","value",
+"PRI","Puerto Rico","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"PRI","Puerto Rico","svy_labr",,"Labor Force Survey","value",
+"QAT","Qatar","cen_popu",2015,"Population & Housing census","value","2015"
+"QAT","Qatar","svy_hlth",2012,"Health/Demographic survey","value","2012"
+"QAT","Qatar","cen_agri",2000,"Agriculture census","value","2000"
+"QAT","Qatar","svy_agri",,"Agriculture survey","value",
+"QAT","Qatar","cen_bizz",,"Business/establishment census","value",
+"QAT","Qatar","svy_bizz",2023,"Business/establishment survey","value","2023"
+"QAT","Qatar","svy_hous",2012,"Household Survey on income/consumption/etc.","value","2012"
+"QAT","Qatar","svy_labr",2020,"Labor Force Survey","value","2020"
+"ROU","Romania","cen_popu",2022,"Population & Housing census","value","2022"
+"ROU","Romania","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ROU","Romania","cen_agri",2020,"Agriculture census","value","2020"
+"ROU","Romania","svy_agri",2016,"Agriculture survey","value","2016"
+"ROU","Romania","cen_bizz",,"Business/establishment census","value",
+"ROU","Romania","svy_bizz",2018,"Business/establishment survey","value","2018"
+"ROU","Romania","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"ROU","Romania","svy_labr",2022,"Labor Force Survey","value","2022"
+"RUS","Russia","cen_popu",2021,"Population & Housing census","value","2021"
+"RUS","Russia","svy_hlth",2008,"Health/Demographic survey","value","2008"
+"RUS","Russia","cen_agri",2016,"Agriculture census","value","2016"
+"RUS","Russia","svy_agri",2014,"Agriculture survey","value","2014"
+"RUS","Russia","cen_bizz",,"Business/establishment census","value",
+"RUS","Russia","svy_bizz",2015,"Business/establishment survey","value","2015"
+"RUS","Russia","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"RUS","Russia","svy_labr",2023,"Labor Force Survey","value","2023"
+"RWA","Rwanda","cen_popu",2022,"Population & Housing census","value","2022"
+"RWA","Rwanda","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"RWA","Rwanda","cen_agri",2022,"Agriculture census","value","2022"
+"RWA","Rwanda","svy_agri",2020,"Agriculture survey","value","2020"
+"RWA","Rwanda","cen_bizz",2022,"Business/establishment census","value","2022"
+"RWA","Rwanda","svy_bizz",2018,"Business/establishment survey","value","2018"
+"RWA","Rwanda","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"RWA","Rwanda","svy_labr",2023,"Labor Force Survey","value","2023"
+"WSM","Samoa","cen_popu",2016,"Population & Housing census","value","2016"
+"WSM","Samoa","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"WSM","Samoa","cen_agri",2019,"Agriculture census","value","2019"
+"WSM","Samoa","svy_agri",2015,"Agriculture survey","value","2015"
+"WSM","Samoa","cen_bizz",,"Business/establishment census","value",
+"WSM","Samoa","svy_bizz",2013,"Business/establishment survey","value","2013"
+"WSM","Samoa","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"WSM","Samoa","svy_labr",2022,"Labor Force Survey","value","2022"
+"SMR","San Marino","cen_popu",,"Population & Housing census","value",
+"SMR","San Marino","svy_hlth",,"Health/Demographic survey","value",
+"SMR","San Marino","cen_agri",,"Agriculture census","value",
+"SMR","San Marino","svy_agri",,"Agriculture survey","value",
+"SMR","San Marino","cen_bizz",,"Business/establishment census","value",
+"SMR","San Marino","svy_bizz",,"Business/establishment survey","value",
+"SMR","San Marino","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"SMR","San Marino","svy_labr",,"Labor Force Survey","value",
+"SAU","Saudi Arabia","cen_popu",2022,"Population & Housing census","value","2022"
+"SAU","Saudi Arabia","svy_hlth",2023,"Health/Demographic survey","value","2023"
+"SAU","Saudi Arabia","cen_agri",2015,"Agriculture census","value","2015"
+"SAU","Saudi Arabia","svy_agri",2021,"Agriculture survey","value","2021"
+"SAU","Saudi Arabia","cen_bizz",,"Business/establishment census","value",
+"SAU","Saudi Arabia","svy_bizz",2022,"Business/establishment survey","value","2022"
+"SAU","Saudi Arabia","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"SAU","Saudi Arabia","svy_labr",2023,"Labor Force Survey","value","2023"
+"SEN","Senegal","cen_popu",2023,"Population & Housing census","value","2023"
+"SEN","Senegal","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"SEN","Senegal","cen_agri",2023,"Agriculture census","value","2023"
+"SEN","Senegal","svy_agri",2019,"Agriculture survey","value","2019"
+"SEN","Senegal","cen_bizz",2016,"Business/establishment census","value","2016"
+"SEN","Senegal","svy_bizz",2013,"Business/establishment survey","value","2013"
+"SEN","Senegal","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"SEN","Senegal","svy_labr",2019,"Labor Force Survey","value","2019"
+"SRB","Serbia","cen_popu",2011,"Population & Housing census","value","2011"
+"SRB","Serbia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"SRB","Serbia","cen_agri",2023,"Agriculture census","value","2023"
+"SRB","Serbia","svy_agri",2018,"Agriculture survey","value","2018"
+"SRB","Serbia","cen_bizz",,"Business/establishment census","value",
+"SRB","Serbia","svy_bizz",2019,"Business/establishment survey","value","2019"
+"SRB","Serbia","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"SRB","Serbia","svy_labr",2022,"Labor Force Survey","value","2022"
+"SYC","Seychelles","cen_popu",2022,"Population & Housing census","value","2022"
+"SYC","Seychelles","svy_hlth",2007,"Health/Demographic survey","value","2007"
+"SYC","Seychelles","cen_agri",2011,"Agriculture census","value","2011"
+"SYC","Seychelles","svy_agri",,"Agriculture survey","value",
+"SYC","Seychelles","cen_bizz",,"Business/establishment census","value",
+"SYC","Seychelles","svy_bizz",,"Business/establishment survey","value",
+"SYC","Seychelles","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"SYC","Seychelles","svy_labr",2020,"Labor Force Survey","value","2020"
+"SLE","Sierra Leone","cen_popu",2015,"Population & Housing census","value","2015"
+"SLE","Sierra Leone","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"SLE","Sierra Leone","cen_agri",,"Agriculture census","value",
+"SLE","Sierra Leone","svy_agri",2022,"Agriculture survey","value","2022"
+"SLE","Sierra Leone","cen_bizz",2022,"Business/establishment census","value","2022"
+"SLE","Sierra Leone","svy_bizz",,"Business/establishment survey","value",
+"SLE","Sierra Leone","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"SLE","Sierra Leone","svy_labr",2014,"Labor Force Survey","value","2014"
+"SGP","Singapore","cen_popu",2020,"Population & Housing census","value","2020"
+"SGP","Singapore","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"SGP","Singapore","cen_agri",2022,"Agriculture census","value","2022"
+"SGP","Singapore","svy_agri",2023,"Agriculture survey","value","2023"
+"SGP","Singapore","cen_bizz",,"Business/establishment census","value",
+"SGP","Singapore","svy_bizz",2023,"Business/establishment survey","value","2023"
+"SGP","Singapore","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SGP","Singapore","svy_labr",2023,"Labor Force Survey","value","2023"
+"SXM","Sint Maarten (Dutch part)","cen_popu",,"Population & Housing census","value",
+"SXM","Sint Maarten (Dutch part)","svy_hlth",,"Health/Demographic survey","value",
+"SXM","Sint Maarten (Dutch part)","cen_agri",,"Agriculture census","value",
+"SXM","Sint Maarten (Dutch part)","svy_agri",,"Agriculture survey","value",
+"SXM","Sint Maarten (Dutch part)","cen_bizz",,"Business/establishment census","value",
+"SXM","Sint Maarten (Dutch part)","svy_bizz",,"Business/establishment survey","value",
+"SXM","Sint Maarten (Dutch part)","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"SXM","Sint Maarten (Dutch part)","svy_labr",,"Labor Force Survey","value",
+"SVK","Slovak Republic","cen_popu",2021,"Population & Housing census","value","2021"
+"SVK","Slovak Republic","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"SVK","Slovak Republic","cen_agri",2020,"Agriculture census","value","2020"
+"SVK","Slovak Republic","svy_agri",2020,"Agriculture survey","value","2020"
+"SVK","Slovak Republic","cen_bizz",,"Business/establishment census","value",
+"SVK","Slovak Republic","svy_bizz",2021,"Business/establishment survey","value","2021"
+"SVK","Slovak Republic","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SVK","Slovak Republic","svy_labr",2023,"Labor Force Survey","value","2023"
+"SVN","Slovenia","cen_popu",2021,"Population & Housing census","value","2021"
+"SVN","Slovenia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"SVN","Slovenia","cen_agri",2020,"Agriculture census","value","2020"
+"SVN","Slovenia","svy_agri",2020,"Agriculture survey","value","2020"
+"SVN","Slovenia","cen_bizz",,"Business/establishment census","value",
+"SVN","Slovenia","svy_bizz",2021,"Business/establishment survey","value","2021"
+"SVN","Slovenia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SVN","Slovenia","svy_labr",2023,"Labor Force Survey","value","2023"
+"SLB","Solomon Islands","cen_popu",2019,"Population & Housing census","value","2019"
+"SLB","Solomon Islands","svy_hlth",2006,"Health/Demographic survey","value","2006"
+"SLB","Solomon Islands","cen_agri",,"Agriculture census","value",
+"SLB","Solomon Islands","svy_agri",,"Agriculture survey","value",
+"SLB","Solomon Islands","cen_bizz",,"Business/establishment census","value",
+"SLB","Solomon Islands","svy_bizz",,"Business/establishment survey","value",
+"SLB","Solomon Islands","svy_hous",2013,"Household Survey on income/consumption/etc.","value","2013"
+"SLB","Solomon Islands","svy_labr",,"Labor Force Survey","value",
+"SOM","Somalia","cen_popu",,"Population & Housing census","value",
+"SOM","Somalia","svy_hlth",2006,"Health/Demographic survey","value","2006"
+"SOM","Somalia","cen_agri",,"Agriculture census","value",
+"SOM","Somalia","svy_agri",2022,"Agriculture survey","value","2022"
+"SOM","Somalia","cen_bizz",,"Business/establishment census","value",
+"SOM","Somalia","svy_bizz",,"Business/establishment survey","value",
+"SOM","Somalia","svy_hous",1985,"Household Survey on income/consumption/etc.","value","1985"
+"SOM","Somalia","svy_labr",2019,"Labor Force Survey","value","2019"
+"ZAF","South Africa","cen_popu",2022,"Population & Housing census","value","2022"
+"ZAF","South Africa","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"ZAF","South Africa","cen_agri",2018,"Agriculture census","value","2018"
+"ZAF","South Africa","svy_agri",2016,"Agriculture survey","value","2016"
+"ZAF","South Africa","cen_bizz",2021,"Business/establishment census","value","2021"
+"ZAF","South Africa","svy_bizz",,"Business/establishment survey","value",
+"ZAF","South Africa","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"ZAF","South Africa","svy_labr",2023,"Labor Force Survey","value","2023"
+"SSD","South Sudan","cen_popu",2008,"Population & Housing census","value","2008"
+"SSD","South Sudan","svy_hlth",2010,"Health/Demographic survey","value","2010"
+"SSD","South Sudan","cen_agri",,"Agriculture census","value",
+"SSD","South Sudan","svy_agri",,"Agriculture survey","value",
+"SSD","South Sudan","cen_bizz",,"Business/establishment census","value",
+"SSD","South Sudan","svy_bizz",2010,"Business/establishment survey","value","2010"
+"SSD","South Sudan","svy_hous",2016,"Household Survey on income/consumption/etc.","value","2016"
+"SSD","South Sudan","svy_labr",,"Labor Force Survey","value",
+"ESP","Spain","cen_popu",2021,"Population & Housing census","value","2021"
+"ESP","Spain","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ESP","Spain","cen_agri",2020,"Agriculture census","value","2020"
+"ESP","Spain","svy_agri",2020,"Agriculture survey","value","2020"
+"ESP","Spain","cen_bizz",,"Business/establishment census","value",
+"ESP","Spain","svy_bizz",2021,"Business/establishment survey","value","2021"
+"ESP","Spain","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"ESP","Spain","svy_labr",2023,"Labor Force Survey","value","2023"
+"LKA","Sri Lanka","cen_popu",2012,"Population & Housing census","value","2012"
+"LKA","Sri Lanka","svy_hlth",2014,"Health/Demographic survey","value","2014"
+"LKA","Sri Lanka","cen_agri",2013,"Agriculture census","value","2013"
+"LKA","Sri Lanka","svy_agri",2016,"Agriculture survey","value","2016"
+"LKA","Sri Lanka","cen_bizz",2013,"Business/establishment census","value","2013"
+"LKA","Sri Lanka","svy_bizz",2018,"Business/establishment survey","value","2018"
+"LKA","Sri Lanka","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"LKA","Sri Lanka","svy_labr",2022,"Labor Force Survey","value","2022"
+"KNA","St. Kitts and Nevis","cen_popu",2022,"Population & Housing census","value","2022"
+"KNA","St. Kitts and Nevis","svy_hlth",2010,"Health/Demographic survey","value","2010"
+"KNA","St. Kitts and Nevis","cen_agri",2000,"Agriculture census","value","2000"
+"KNA","St. Kitts and Nevis","svy_agri",,"Agriculture survey","value",
+"KNA","St. Kitts and Nevis","cen_bizz",,"Business/establishment census","value",
+"KNA","St. Kitts and Nevis","svy_bizz",,"Business/establishment survey","value",
+"KNA","St. Kitts and Nevis","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"KNA","St. Kitts and Nevis","svy_labr",,"Labor Force Survey","value",
+"LCA","St. Lucia","cen_popu",2022,"Population & Housing census","value","2022"
+"LCA","St. Lucia","svy_hlth",2012,"Health/Demographic survey","value","2012"
+"LCA","St. Lucia","cen_agri",2007,"Agriculture census","value","2007"
+"LCA","St. Lucia","svy_agri",,"Agriculture survey","value",
+"LCA","St. Lucia","cen_bizz",,"Business/establishment census","value",
+"LCA","St. Lucia","svy_bizz",,"Business/establishment survey","value",
+"LCA","St. Lucia","svy_hous",2015,"Household Survey on income/consumption/etc.","value","2015"
+"LCA","St. Lucia","svy_labr",2022,"Labor Force Survey","value","2022"
+"MAF","St. Martin (French part)","cen_popu",,"Population & Housing census","value",
+"MAF","St. Martin (French part)","svy_hlth",,"Health/Demographic survey","value",
+"MAF","St. Martin (French part)","cen_agri",,"Agriculture census","value",
+"MAF","St. Martin (French part)","svy_agri",,"Agriculture survey","value",
+"MAF","St. Martin (French part)","cen_bizz",,"Business/establishment census","value",
+"MAF","St. Martin (French part)","svy_bizz",,"Business/establishment survey","value",
+"MAF","St. Martin (French part)","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"MAF","St. Martin (French part)","svy_labr",,"Labor Force Survey","value",
+"VCT","St. Vincent and the Grenadines","cen_popu",2023,"Population & Housing census","value","2023"
+"VCT","St. Vincent and the Grenadines","svy_hlth",2013,"Health/Demographic survey","value","2013"
+"VCT","St. Vincent and the Grenadines","cen_agri",2000,"Agriculture census","value","2000"
+"VCT","St. Vincent and the Grenadines","svy_agri",,"Agriculture survey","value",
+"VCT","St. Vincent and the Grenadines","cen_bizz",,"Business/establishment census","value",
+"VCT","St. Vincent and the Grenadines","svy_bizz",,"Business/establishment survey","value",
+"VCT","St. Vincent and the Grenadines","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"VCT","St. Vincent and the Grenadines","svy_labr",2015,"Labor Force Survey","value","2015"
+"SDN","Sudan","cen_popu",2008,"Population & Housing census","value","2008"
+"SDN","Sudan","svy_hlth",2021,"Health/Demographic survey","value","2021"
+"SDN","Sudan","cen_agri",,"Agriculture census","value",
+"SDN","Sudan","svy_agri",2021,"Agriculture survey","value","2021"
+"SDN","Sudan","cen_bizz",,"Business/establishment census","value",
+"SDN","Sudan","svy_bizz",,"Business/establishment survey","value",
+"SDN","Sudan","svy_hous",2014,"Household Survey on income/consumption/etc.","value","2014"
+"SDN","Sudan","svy_labr",2022,"Labor Force Survey","value","2022"
+"SUR","Suriname","cen_popu",2012,"Population & Housing census","value","2012"
+"SUR","Suriname","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"SUR","Suriname","cen_agri",2008,"Agriculture census","value","2008"
+"SUR","Suriname","svy_agri",,"Agriculture survey","value",
+"SUR","Suriname","cen_bizz",,"Business/establishment census","value",
+"SUR","Suriname","svy_bizz",,"Business/establishment survey","value",
+"SUR","Suriname","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SUR","Suriname","svy_labr",,"Labor Force Survey","value",
+"SWE","Sweden","cen_popu",2021,"Population & Housing census","value","2021"
+"SWE","Sweden","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"SWE","Sweden","cen_agri",2020,"Agriculture census","value","2020"
+"SWE","Sweden","svy_agri",2020,"Agriculture survey","value","2020"
+"SWE","Sweden","cen_bizz",,"Business/establishment census","value",
+"SWE","Sweden","svy_bizz",2021,"Business/establishment survey","value","2021"
+"SWE","Sweden","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SWE","Sweden","svy_labr",2022,"Labor Force Survey","value","2022"
+"CHE","Switzerland","cen_popu",2021,"Population & Housing census","value","2021"
+"CHE","Switzerland","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"CHE","Switzerland","cen_agri",2020,"Agriculture census","value","2020"
+"CHE","Switzerland","svy_agri",2020,"Agriculture survey","value","2020"
+"CHE","Switzerland","cen_bizz",,"Business/establishment census","value",
+"CHE","Switzerland","svy_bizz",2021,"Business/establishment survey","value","2021"
+"CHE","Switzerland","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"CHE","Switzerland","svy_labr",2023,"Labor Force Survey","value","2023"
+"SYR","Syrian Arab Republic","cen_popu",2004,"Population & Housing census","value","2004"
+"SYR","Syrian Arab Republic","svy_hlth",2010,"Health/Demographic survey","value","2010"
+"SYR","Syrian Arab Republic","cen_agri",,"Agriculture census","value",
+"SYR","Syrian Arab Republic","svy_agri",,"Agriculture survey","value",
+"SYR","Syrian Arab Republic","cen_bizz",,"Business/establishment census","value",
+"SYR","Syrian Arab Republic","svy_bizz",,"Business/establishment survey","value",
+"SYR","Syrian Arab Republic","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"SYR","Syrian Arab Republic","svy_labr",2012,"Labor Force Survey","value","2012"
+"STP","São Tomé and Principe","cen_popu",2012,"Population & Housing census","value","2012"
+"STP","São Tomé and Principe","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"STP","São Tomé and Principe","cen_agri",,"Agriculture census","value",
+"STP","São Tomé and Principe","svy_agri",,"Agriculture survey","value",
+"STP","São Tomé and Principe","cen_bizz",,"Business/establishment census","value",
+"STP","São Tomé and Principe","svy_bizz",,"Business/establishment survey","value",
+"STP","São Tomé and Principe","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"STP","São Tomé and Principe","svy_labr",,"Labor Force Survey","value",
+"TJK","Tajikistan","cen_popu",2020,"Population & Housing census","value","2020"
+"TJK","Tajikistan","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"TJK","Tajikistan","cen_agri",2013,"Agriculture census","value","2013"
+"TJK","Tajikistan","svy_agri",,"Agriculture survey","value",
+"TJK","Tajikistan","cen_bizz",,"Business/establishment census","value",
+"TJK","Tajikistan","svy_bizz",2002,"Business/establishment survey","value","2002"
+"TJK","Tajikistan","svy_hous",2017,"Household Survey on income/consumption/etc.","value","2017"
+"TJK","Tajikistan","svy_labr",2018,"Labor Force Survey","value","2018"
+"TZA","Tanzania","cen_popu",2022,"Population & Housing census","value","2022"
+"TZA","Tanzania","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"TZA","Tanzania","cen_agri",2019,"Agriculture census","value","2019"
+"TZA","Tanzania","svy_agri",2021,"Agriculture survey","value","2021"
+"TZA","Tanzania","cen_bizz",,"Business/establishment census","value",
+"TZA","Tanzania","svy_bizz",2014,"Business/establishment survey","value","2014"
+"TZA","Tanzania","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"TZA","Tanzania","svy_labr",2020,"Labor Force Survey","value","2020"
+"THA","Thailand","cen_popu",2010,"Population & Housing census","value","2010"
+"THA","Thailand","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"THA","Thailand","cen_agri",2013,"Agriculture census","value","2013"
+"THA","Thailand","svy_agri",2014,"Agriculture survey","value","2014"
+"THA","Thailand","cen_bizz",2012,"Business/establishment census","value","2012"
+"THA","Thailand","svy_bizz",2016,"Business/establishment survey","value","2016"
+"THA","Thailand","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"THA","Thailand","svy_labr",2023,"Labor Force Survey","value","2023"
+"BHS","The Bahamas","cen_popu",2022,"Population & Housing census","value","2022"
+"BHS","The Bahamas","svy_hlth",,"Health/Demographic survey","value",
+"BHS","The Bahamas","cen_agri",,"Agriculture census","value",
+"BHS","The Bahamas","svy_agri",,"Agriculture survey","value",
+"BHS","The Bahamas","cen_bizz",,"Business/establishment census","value",
+"BHS","The Bahamas","svy_bizz",2010,"Business/establishment survey","value","2010"
+"BHS","The Bahamas","svy_hous",2013,"Household Survey on income/consumption/etc.","value","2013"
+"BHS","The Bahamas","svy_labr",2023,"Labor Force Survey","value","2023"
+"GMB","The Gambia","cen_popu",2013,"Population & Housing census","value","2013"
+"GMB","The Gambia","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"GMB","The Gambia","cen_agri",2012,"Agriculture census","value","2012"
+"GMB","The Gambia","svy_agri",2005,"Agriculture survey","value","2005"
+"GMB","The Gambia","cen_bizz",2014,"Business/establishment census","value","2014"
+"GMB","The Gambia","svy_bizz",,"Business/establishment survey","value",
+"GMB","The Gambia","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"GMB","The Gambia","svy_labr",2023,"Labor Force Survey","value","2023"
+"TLS","Timor-Leste","cen_popu",2015,"Population & Housing census","value","2015"
+"TLS","Timor-Leste","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"TLS","Timor-Leste","cen_agri",2019,"Agriculture census","value","2019"
+"TLS","Timor-Leste","svy_agri",,"Agriculture survey","value",
+"TLS","Timor-Leste","cen_bizz",,"Business/establishment census","value",
+"TLS","Timor-Leste","svy_bizz",2018,"Business/establishment survey","value","2018"
+"TLS","Timor-Leste","svy_hous",2014,"Household Survey on income/consumption/etc.","value","2014"
+"TLS","Timor-Leste","svy_labr",2021,"Labor Force Survey","value","2021"
+"TGO","Togo","cen_popu",2022,"Population & Housing census","value","2022"
+"TGO","Togo","svy_hlth",2017,"Health/Demographic survey","value","2017"
+"TGO","Togo","cen_agri",2012,"Agriculture census","value","2012"
+"TGO","Togo","svy_agri",2021,"Agriculture survey","value","2021"
+"TGO","Togo","cen_bizz",2017,"Business/establishment census","value","2017"
+"TGO","Togo","svy_bizz",,"Business/establishment survey","value",
+"TGO","Togo","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"TGO","Togo","svy_labr",2017,"Labor Force Survey","value","2017"
+"TON","Tonga","cen_popu",2016,"Population & Housing census","value","2016"
+"TON","Tonga","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"TON","Tonga","cen_agri",2015,"Agriculture census","value","2015"
+"TON","Tonga","svy_agri",,"Agriculture survey","value",
+"TON","Tonga","cen_bizz",,"Business/establishment census","value",
+"TON","Tonga","svy_bizz",,"Business/establishment survey","value",
+"TON","Tonga","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"TON","Tonga","svy_labr",2018,"Labor Force Survey","value","2018"
+"TTO","Trinidad and Tobago","cen_popu",2011,"Population & Housing census","value","2011"
+"TTO","Trinidad and Tobago","svy_hlth",2011,"Health/Demographic survey","value","2011"
+"TTO","Trinidad and Tobago","cen_agri",2004,"Agriculture census","value","2004"
+"TTO","Trinidad and Tobago","svy_agri",,"Agriculture survey","value",
+"TTO","Trinidad and Tobago","cen_bizz",,"Business/establishment census","value",
+"TTO","Trinidad and Tobago","svy_bizz",,"Business/establishment survey","value",
+"TTO","Trinidad and Tobago","svy_hous",2005,"Household Survey on income/consumption/etc.","value","2005"
+"TTO","Trinidad and Tobago","svy_labr",2022,"Labor Force Survey","value","2022"
+"TUN","Tunisia","cen_popu",2014,"Population & Housing census","value","2014"
+"TUN","Tunisia","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"TUN","Tunisia","cen_agri",2005,"Agriculture census","value","2005"
+"TUN","Tunisia","svy_agri",2018,"Agriculture survey","value","2018"
+"TUN","Tunisia","cen_bizz",,"Business/establishment census","value",
+"TUN","Tunisia","svy_bizz",,"Business/establishment survey","value",
+"TUN","Tunisia","svy_hous",2021,"Household Survey on income/consumption/etc.","value","2021"
+"TUN","Tunisia","svy_labr",2023,"Labor Force Survey","value","2023"
+"TKM","Turkmenistan","cen_popu",2022,"Population & Housing census","value","2022"
+"TKM","Turkmenistan","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"TKM","Turkmenistan","cen_agri",,"Agriculture census","value",
+"TKM","Turkmenistan","svy_agri",,"Agriculture survey","value",
+"TKM","Turkmenistan","cen_bizz",,"Business/establishment census","value",
+"TKM","Turkmenistan","svy_bizz",,"Business/establishment survey","value",
+"TKM","Turkmenistan","svy_hous",2003,"Household Survey on income/consumption/etc.","value","2003"
+"TKM","Turkmenistan","svy_labr",,"Labor Force Survey","value",
+"TCA","Turks and Caicos Islands","cen_popu",,"Population & Housing census","value",
+"TCA","Turks and Caicos Islands","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"TCA","Turks and Caicos Islands","cen_agri",,"Agriculture census","value",
+"TCA","Turks and Caicos Islands","svy_agri",,"Agriculture survey","value",
+"TCA","Turks and Caicos Islands","cen_bizz",,"Business/establishment census","value",
+"TCA","Turks and Caicos Islands","svy_bizz",,"Business/establishment survey","value",
+"TCA","Turks and Caicos Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"TCA","Turks and Caicos Islands","svy_labr",,"Labor Force Survey","value",
+"TUV","Tuvalu","cen_popu",2017,"Population & Housing census","value","2017"
+"TUV","Tuvalu","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"TUV","Tuvalu","cen_agri",2017,"Agriculture census","value","2017"
+"TUV","Tuvalu","svy_agri",,"Agriculture survey","value",
+"TUV","Tuvalu","cen_bizz",,"Business/establishment census","value",
+"TUV","Tuvalu","svy_bizz",,"Business/establishment survey","value",
+"TUV","Tuvalu","svy_hous",2010,"Household Survey on income/consumption/etc.","value","2010"
+"TUV","Tuvalu","svy_labr",,"Labor Force Survey","value",
+"TUR","Türkiye","cen_popu",2021,"Population & Housing census","value","2021"
+"TUR","Türkiye","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"TUR","Türkiye","cen_agri",2001,"Agriculture census","value","2001"
+"TUR","Türkiye","svy_agri",2016,"Agriculture survey","value","2016"
+"TUR","Türkiye","cen_bizz",,"Business/establishment census","value",
+"TUR","Türkiye","svy_bizz",2016,"Business/establishment survey","value","2016"
+"TUR","Türkiye","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"TUR","Türkiye","svy_labr",2023,"Labor Force Survey","value","2023"
+"UGA","Uganda","cen_popu",2014,"Population & Housing census","value","2014"
+"UGA","Uganda","svy_hlth",2016,"Health/Demographic survey","value","2016"
+"UGA","Uganda","cen_agri",2008,"Agriculture census","value","2008"
+"UGA","Uganda","svy_agri",2018,"Agriculture survey","value","2018"
+"UGA","Uganda","cen_bizz",2006,"Business/establishment census","value","2006"
+"UGA","Uganda","svy_bizz",2006,"Business/establishment survey","value","2006"
+"UGA","Uganda","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"UGA","Uganda","svy_labr",2021,"Labor Force Survey","value","2021"
+"UKR","Ukraine","cen_popu",2001,"Population & Housing census","value","2001"
+"UKR","Ukraine","svy_hlth",2012,"Health/Demographic survey","value","2012"
+"UKR","Ukraine","cen_agri",,"Agriculture census","value",
+"UKR","Ukraine","svy_agri",2014,"Agriculture survey","value","2014"
+"UKR","Ukraine","cen_bizz",,"Business/establishment census","value",
+"UKR","Ukraine","svy_bizz",2016,"Business/establishment survey","value","2016"
+"UKR","Ukraine","svy_hous",2020,"Household Survey on income/consumption/etc.","value","2020"
+"UKR","Ukraine","svy_labr",2021,"Labor Force Survey","value","2021"
+"ARE","United Arab Emirates","cen_popu",2010,"Population & Housing census","value","2010"
+"ARE","United Arab Emirates","svy_hlth",2009,"Health/Demographic survey","value","2009"
+"ARE","United Arab Emirates","cen_agri",,"Agriculture census","value",
+"ARE","United Arab Emirates","svy_agri",2022,"Agriculture survey","value","2022"
+"ARE","United Arab Emirates","cen_bizz",,"Business/establishment census","value",
+"ARE","United Arab Emirates","svy_bizz",,"Business/establishment survey","value",
+"ARE","United Arab Emirates","svy_hous",2018,"Household Survey on income/consumption/etc.","value","2018"
+"ARE","United Arab Emirates","svy_labr",2022,"Labor Force Survey","value","2022"
+"GBR","United Kingdom","cen_popu",2021,"Population & Housing census","value","2021"
+"GBR","United Kingdom","svy_hlth",2013,"Health/Demographic survey","value","2013"
+"GBR","United Kingdom","cen_agri",2021,"Agriculture census","value","2021"
+"GBR","United Kingdom","svy_agri",2022,"Agriculture survey","value","2022"
+"GBR","United Kingdom","cen_bizz",,"Business/establishment census","value",
+"GBR","United Kingdom","svy_bizz",2023,"Business/establishment survey","value","2023"
+"GBR","United Kingdom","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"GBR","United Kingdom","svy_labr",2023,"Labor Force Survey","value","2023"
+"USA","United States","cen_popu",2020,"Population & Housing census","value","2020"
+"USA","United States","svy_hlth",2023,"Health/Demographic survey","value","2023"
+"USA","United States","cen_agri",2017,"Agriculture census","value","2017"
+"USA","United States","svy_agri",2023,"Agriculture survey","value","2023"
+"USA","United States","cen_bizz",,"Business/establishment census","value",
+"USA","United States","svy_bizz",2023,"Business/establishment survey","value","2023"
+"USA","United States","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"USA","United States","svy_labr",2023,"Labor Force Survey","value","2023"
+"URY","Uruguay","cen_popu",2023,"Population & Housing census","value","2023"
+"URY","Uruguay","svy_hlth",2015,"Health/Demographic survey","value","2015"
+"URY","Uruguay","cen_agri",2011,"Agriculture census","value","2011"
+"URY","Uruguay","svy_agri",,"Agriculture survey","value",
+"URY","Uruguay","cen_bizz",,"Business/establishment census","value",
+"URY","Uruguay","svy_bizz",2017,"Business/establishment survey","value","2017"
+"URY","Uruguay","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"URY","Uruguay","svy_labr",2023,"Labor Force Survey","value","2023"
+"UZB","Uzbekistan","cen_popu",,"Population & Housing census","value",
+"UZB","Uzbekistan","svy_hlth",2022,"Health/Demographic survey","value","2022"
+"UZB","Uzbekistan","cen_agri",,"Agriculture census","value",
+"UZB","Uzbekistan","svy_agri",2023,"Agriculture survey","value","2023"
+"UZB","Uzbekistan","cen_bizz",,"Business/establishment census","value",
+"UZB","Uzbekistan","svy_bizz",2023,"Business/establishment survey","value","2023"
+"UZB","Uzbekistan","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"UZB","Uzbekistan","svy_labr",2020,"Labor Force Survey","value","2020"
+"VUT","Vanuatu","cen_popu",2016,"Population & Housing census","value","2016"
+"VUT","Vanuatu","svy_hlth",2013,"Health/Demographic survey","value","2013"
+"VUT","Vanuatu","cen_agri",2007,"Agriculture census","value","2007"
+"VUT","Vanuatu","svy_agri",,"Agriculture survey","value",
+"VUT","Vanuatu","cen_bizz",,"Business/establishment census","value",
+"VUT","Vanuatu","svy_bizz",2001,"Business/establishment survey","value","2001"
+"VUT","Vanuatu","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"VUT","Vanuatu","svy_labr",,"Labor Force Survey","value",
+"VEN","Venezuela","cen_popu",2021,"Population & Housing census","value","2021"
+"VEN","Venezuela","svy_hlth",2003,"Health/Demographic survey","value","2003"
+"VEN","Venezuela","cen_agri",2008,"Agriculture census","value","2008"
+"VEN","Venezuela","svy_agri",,"Agriculture survey","value",
+"VEN","Venezuela","cen_bizz",,"Business/establishment census","value",
+"VEN","Venezuela","svy_bizz",,"Business/establishment survey","value",
+"VEN","Venezuela","svy_hous",2006,"Household Survey on income/consumption/etc.","value","2006"
+"VEN","Venezuela","svy_labr",2017,"Labor Force Survey","value","2017"
+"VNM","Viet Nam","cen_popu",2019,"Population & Housing census","value","2019"
+"VNM","Viet Nam","svy_hlth",2020,"Health/Demographic survey","value","2020"
+"VNM","Viet Nam","cen_agri",2020,"Agriculture census","value","2020"
+"VNM","Viet Nam","svy_agri",2014,"Agriculture survey","value","2014"
+"VNM","Viet Nam","cen_bizz",2008,"Business/establishment census","value","2008"
+"VNM","Viet Nam","svy_bizz",2016,"Business/establishment survey","value","2016"
+"VNM","Viet Nam","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"VNM","Viet Nam","svy_labr",2023,"Labor Force Survey","value","2023"
+"VIR","Virgin Islands","cen_popu",,"Population & Housing census","value",
+"VIR","Virgin Islands","svy_hlth",,"Health/Demographic survey","value",
+"VIR","Virgin Islands","cen_agri",,"Agriculture census","value",
+"VIR","Virgin Islands","svy_agri",,"Agriculture survey","value",
+"VIR","Virgin Islands","cen_bizz",,"Business/establishment census","value",
+"VIR","Virgin Islands","svy_bizz",,"Business/establishment survey","value",
+"VIR","Virgin Islands","svy_hous",,"Household Survey on income/consumption/etc.","value",
+"VIR","Virgin Islands","svy_labr",,"Labor Force Survey","value",
+"PSE","West Bank and Gaza","cen_popu",2017,"Population & Housing census","value","2017"
+"PSE","West Bank and Gaza","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"PSE","West Bank and Gaza","cen_agri",2021,"Agriculture census","value","2021"
+"PSE","West Bank and Gaza","svy_agri",2015,"Agriculture survey","value","2015"
+"PSE","West Bank and Gaza","cen_bizz",,"Business/establishment census","value",
+"PSE","West Bank and Gaza","svy_bizz",2018,"Business/establishment survey","value","2018"
+"PSE","West Bank and Gaza","svy_hous",2016,"Household Survey on income/consumption/etc.","value","2016"
+"PSE","West Bank and Gaza","svy_labr",2022,"Labor Force Survey","value","2022"
+"YEM","Yemen","cen_popu",2004,"Population & Housing census","value","2004"
+"YEM","Yemen","svy_hlth",2013,"Health/Demographic survey","value","2013"
+"YEM","Yemen","cen_agri",2002,"Agriculture census","value","2002"
+"YEM","Yemen","svy_agri",2021,"Agriculture survey","value","2021"
+"YEM","Yemen","cen_bizz",,"Business/establishment census","value",
+"YEM","Yemen","svy_bizz",2004,"Business/establishment survey","value","2004"
+"YEM","Yemen","svy_hous",2014,"Household Survey on income/consumption/etc.","value","2014"
+"YEM","Yemen","svy_labr",2014,"Labor Force Survey","value","2014"
+"ZMB","Zambia","cen_popu",2022,"Population & Housing census","value","2022"
+"ZMB","Zambia","svy_hlth",2018,"Health/Demographic survey","value","2018"
+"ZMB","Zambia","cen_agri",2000,"Agriculture census","value","2000"
+"ZMB","Zambia","svy_agri",2015,"Agriculture survey","value","2015"
+"ZMB","Zambia","cen_bizz",,"Business/establishment census","value",
+"ZMB","Zambia","svy_bizz",,"Business/establishment survey","value",
+"ZMB","Zambia","svy_hous",2022,"Household Survey on income/consumption/etc.","value","2022"
+"ZMB","Zambia","svy_labr",2022,"Labor Force Survey","value","2022"
+"ZWE","Zimbabwe","cen_popu",2022,"Population & Housing census","value","2022"
+"ZWE","Zimbabwe","svy_hlth",2019,"Health/Demographic survey","value","2019"
+"ZWE","Zimbabwe","cen_agri",,"Agriculture census","value",
+"ZWE","Zimbabwe","svy_agri",2022,"Agriculture survey","value","2022"
+"ZWE","Zimbabwe","cen_bizz",2013,"Business/establishment census","value","2013"
+"ZWE","Zimbabwe","svy_bizz",,"Business/establishment survey","value",
+"ZWE","Zimbabwe","svy_hous",2019,"Household Survey on income/consumption/etc.","value","2019"
+"ZWE","Zimbabwe","svy_labr",2022,"Labor Force Survey","value","2022"

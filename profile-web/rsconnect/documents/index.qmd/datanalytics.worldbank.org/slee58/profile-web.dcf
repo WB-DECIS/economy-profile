@@ -1,0 +1,14 @@
+name: profile-web
+title: profile-web
+username: slee58
+account: slee58
+server: datanalytics.worldbank.org
+hostUrl: https://datanalytics.worldbank.org/__api__
+appId: 326
+bundleId:
+url: https://datanalytics.worldbank.org/content/5107d1db-12db-4b12-a2ae-7c19c065d325/
+version: 1
+quarto_version: 1.7.24
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
